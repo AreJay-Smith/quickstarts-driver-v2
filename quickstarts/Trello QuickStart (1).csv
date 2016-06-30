@@ -1,0 +1,39 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Trello QuickStart (1)","Executive Summary: 5 Metrics to manage Trello.","","List Pipeline","LIST PIPELINE
+Shows the number of badges in each list. Evaluate bottlenecks in your process.","1940944177","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Member Usage: How are members using the boards?","","Members' Badges","MEMBERS' BADGES
+Shows the total number of badges each member has. Consider this information in workload planning.","1933667019","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Member Usage: How are members using the boards?","","Members' Badges in Lists","MEMBERS' BADGES IN LISTS
+Shows the number of badges each member has and the list they are in. Evaluate members' workloads.","493395727","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Checklists and Dates: What still needs to be done?","","Due in the Next 7 Days","DUE IN THE NEXT 7 DAYS
+Shows the names of badges that have a due date within the next 7 days. Consider this information when determining workload planning.","1598992879","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Executive Summary: 5 Metrics to manage Trello.","","Checklists","CHECKLISTS
+Displays the number of complete vs incomplete checklists. Determine what can be done to finish out the incomplete checklists.","1356958253","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Member Usage: How are members using the boards?","","Due Dates","DUE DATES
+Shows the number of badges due by each member by date. Use this card to evaluate upcoming workloads.","458211333","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Member Usage: How are members using the boards?","","Member Activity","MEMBER ACTIVITY
+Displays the date badges were last updated by each member. Determine which members are currently active on Trello.","259895550","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Lists, Labels and Boards: What is the status of each badge?","","Labels","LABELS
+Shows the relative number of badges associated with each label. Evaluate your usage of labels.","311412545","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Lists, Labels and Boards: What is the status of each badge?","","Labeled Badges","LABELED BADGES
+Displays the number of badges by member and label. Evaluate member focus areas.","1278894775","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Checklists and Dates: What still needs to be done?","","Checklists","CHECKLISTS
+Shows the number of checklist items and how many of those item have been completed. Consider using this to estimate the workload required to complete the checklists.","1720321330","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Executive Summary: 5 Metrics to manage Trello.","","Member Activity","MEMBER ACTIVITY
+Illustrates the last time there was activity on a badge by a member. Use this information to evaluate member activity.","1940054763","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Lists, Labels and Boards: What is the status of each badge?","","Badges on Each Board","BADGES ON EACH BOARD
+Shows the number of badges on each Trello board. To manage your boards, set an alert to be notified when badges are added or deleted.","1453077600","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Attachments and Comments: What are the contents within each badge?","","Attachments","ATTACHMENTS
+Illustrates the number of attachments on each badge. If certain documents need to be attached, determine which badges are in compliance.","1842126710","Member Cards","768b1cb1-b2cb-40b6-9700-55c6730b287b"
+"Trello QuickStart (1)","Attachments and Comments: What are the contents within each badge?","","Comments","COMMENTS
+Shows the number of comments on each badge. Investigate the badges with the most comments to see if there are problems that can be addressed.","340954502","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Attachments and Comments: What are the contents within each badge?","","Member Documentation","MEMBER DOCUMENTATION
+Displays the number of attachments and comments for each badge membership set. Evaluate the activity of membership sets.","1906973597","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Lists, Labels and Boards: What is the status of each badge?","","Badges on Each List","BADGES ON EACH LIST
+Displays the number of badges on each list. Set an alert to be notified when badges are added or deleted to manage your Trello lists.","607378918","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Executive Summary: 5 Metrics to manage Trello.","","Comment on Badges","COMMENT ON BADGES
+Lists all badges and provides links to email comments directly to badges. Use this to evaluate and comment on badges without having to leave Domo.","1208281963","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Checklists and Dates: What still needs to be done?","","Due Date of Badges","DUE DATE OF BADGES
+Illustrates the number of badges with a due date in the given week. Consider this information in planning workloads.","1758978388","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"
+"Trello QuickStart (1)","Executive Summary: 5 Metrics to manage Trello.","","Badges in Lists","BADGES IN LISTS
+Displays the number of badges in each list. Evaluate your list pipeline and focus on moving badges through your lists.","713465358","All Cards","b78f510c-6985-4544-a446-03d96c4b19af"

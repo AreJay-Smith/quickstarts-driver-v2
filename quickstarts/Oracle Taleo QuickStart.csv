@@ -1,0 +1,39 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Oracle Taleo QuickStart","Executive Pulse: Metrics every talent acquisition manager must know","","Filled Dates","FILLED DATES
+The dates in the current year when a requisition was filled. Look for patterns in the data to more accurately predict when requisitions will be filled.","184386575","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Pipeline: Where are your applicants in the hiring process?","","Interview Dates","INTERVIEW DATES
+Displays the dates interviews have been scheduled. Use this information to determine if your scheduling is evenly distributed.","1895910747","Fake_Taleo - Interview","9066f922-ff61-4001-a171-31213e35c688"
+"Oracle Taleo QuickStart","Executive Pulse: Metrics every talent acquisition manager must know","","Filled Within 60 Days","FILLED WITHIN 60 DAYS
+Percent of requisitions filled within 60 days. Monitor your progress toward reaching your time to fill goals.","1227460936","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Pipeline: Where are your applicants in the hiring process?","","Status of Requisitions","STATUS OF REQUISITIONS
+The number of requisitions in each status, by department. Evaluate the current and future needs of each department.","1703686556","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Team Management: How fast is your team getting people in the door?","","Owners' Time to Fill","OWNERS' TIME TO FILL
+The average amount of time it takes each owner to fill a requisition. Use this information to help evaluate the performance of requisition owners.","698054207","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Pipeline: Where are your applicants in the hiring process?","","Applications Received","APPLICATIONS RECEIVED
+Compares the number of applications received last month to the previous month. Consider this information while planning for the next month's work load.","962610438","Fake_Taleo - Candidate Applications","a0e43eed-018e-47da-9cd0-cb265553e44b"
+"Oracle Taleo QuickStart","Pipeline: Where are your applicants in the hiring process?","","Status Changes","STATUS CHANGES
+Number of applicants who have changed status. Evaluate the number of status changes to determine the teams' Taleo activity and overall productivity.","1252540206","Fake_Taleo - Candidate Applications","a0e43eed-018e-47da-9cd0-cb265553e44b"
+"Oracle Taleo QuickStart","Team Management: How fast is your team getting people in the door?","","Requisition Ownership","REQUISITION OWNERSHIP
+Number of requisitions assigned to each owner by the requisition status. Use this information for workload planning.","424159947","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Executive Pulse: Metrics every talent acquisition manager must know","","Sources of Hires","SOURCES OF HIRES
+The number of people hired by source and month of hire date. Evaluate hiring trends and use the most effective sources to help in recruiting efforts. ","286330397","Fake_Taleo - Candidate Applications","a0e43eed-018e-47da-9cd0-cb265553e44b"
+"Oracle Taleo QuickStart","Applicant Pool: Where are your candidates and hires coming from?","","New Candidate Trend","NEW CANDIDATE TREND
+Number of new candidates added to the system over time. Determine if  your volume of candidates is large enough to find the best fit for the requisition.","300877952","Fake_Taleo - Candidate","da0af122-3f28-421c-9d4f-45a46452bb32"
+"Oracle Taleo QuickStart","Executive Pulse: Metrics every talent acquisition manager must know","","Candidate Labor Markets","CANDIDATE LABOR MARKETS
+Cities with the largest number of candidates who have applied. Evaluate your labor markets and determine if you need to adjust strategies to obtain the best fitting candidates. ","1552652031","Fake_Taleo - Candidate","da0af122-3f28-421c-9d4f-45a46452bb32"
+"Oracle Taleo QuickStart","Team Management: How fast is your team getting people in the door?","","Time To Fill Requisitions","TIME TO FILL REQUISITIONS
+The average number of days it takes to fill a requisition. If you are not meeting your goals, find and address the bottlenecks in the hiring process.","970916796","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Executive Pulse: Metrics every talent acquisition manager must know","","Candidate Pipeline","CANDIDATE PIPELINE
+Displays the number of applicants at each stage of the hiring pipeline. Identify and address bottlenecks in the pipeline.","1894675467","Fake_Taleo - Candidate Applications","a0e43eed-018e-47da-9cd0-cb265553e44b"
+"Oracle Taleo QuickStart","Applicant Pool: Where are your candidates and hires coming from?","","Candidate Status","CANDIDATE STATUS
+Number of candidates in each status. Use analyzer to see which sources are providing the candidates in each category.","207516889","Fake_Taleo - Candidate","da0af122-3f28-421c-9d4f-45a46452bb32"
+"Oracle Taleo QuickStart","Team Management: How fast is your team getting people in the door?","","Departments' Time to Fill","DEPARTMENTS' TIME TO FILL
+The summary statistics for the number of days it takes to fill a requisition by department. Use this information to identify lagging departments and plan workloads accordingly.","1390446527","Fake_Taleo - Requisitions","20943820-a3c9-46d6-9467-9fd8f46b73c6"
+"Oracle Taleo QuickStart","Applicant Pool: Where are your candidates and hires coming from?","","Candidate Gender","CANDIDATE GENDER
+Percent of candidates by gender. Use this information to evaluate whether you have enough diversity in your candidate pool. ","1768485255","Fake_Taleo - Candidate","da0af122-3f28-421c-9d4f-45a46452bb32"
+"Oracle Taleo QuickStart","Applicant Pool: Where are your candidates and hires coming from?","","Sources for Employees","SOURCES FOR EMPLOYEES
+Number of people hired by source. Evaluate your sources and focus recruitment efforts on sources that have provided the best candidates.","1302810371","Fake_Taleo - Candidate Applications","a0e43eed-018e-47da-9cd0-cb265553e44b"
+"Oracle Taleo QuickStart","Pipeline: Where are your applicants in the hiring process?","","Rejection Reasons","REJECTION REASONS
+Most used reasons for rejecting applicants. Evaluate the type of candidates you are receiving. If most are being rejected for the same reason, consider emphasizing other sources.","457836729","Fake_Taleo - Candidate Applications","a0e43eed-018e-47da-9cd0-cb265553e44b"
+"Oracle Taleo QuickStart","Executive Pulse: Metrics every talent acquisition manager must know","","Interview Feedback","INTERVIEW FEEDBACK
+Displays the number of interviewers who have submitted feedback on a candidate. Use this information to find those interviewers who are not providing timely feedback.","1110704905","Fake_Taleo - Interview","9066f922-ff61-4001-a171-31213e35c688"

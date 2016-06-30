@@ -15,7 +15,7 @@ var QuickstartsDriver = (function() {
     var cardsCSV = [];
 
     // MARK: Constants
-    var SID = 'eyJjdXN0b21lcklkIjoiZG9tbyIsImV4cGlyYXRpb24iOjE0NjY3Mjc1NDc0OTMsImhtYWNTaWduYXR1cmUiOiI1Mzc2YjhjMWUwMTNlOGQxMjY5ZjM4NjdjOTdhYjNlMzM5MzQ5YmI1MDlhOGUxYmIyZWZjZDc5NjI1NDJmYTZiIiwicm9sZSI6IlByaXZpbGVnZWQiLCJ0aW1lc3RhbXAiOjE0NjY2OTg3NDc0OTMsInVzZXJJZCI6IjU5MzE1OTE2NyJ9';
+    var SID = 'eyJjdXN0b21lcklkIjoiZG9tby1xdWlja3N0YXJ0czEiLCJleHBpcmF0aW9uIjoxNDY3MjYxOTYwNDgyLCJobWFjU2lnbmF0dXJlIjoiNWRiZjhlY2ZlNDJkYTk3ZTU3ZDgzMDJmNGVhZTE3MzRmODE4MTdjY2VjMTdkMDdmZTE4ZjYzMjY3Yjg0MWQ1ZSIsInJvbGUiOiJBZG1pbiIsInRpbWVzdGFtcCI6MTQ2NzIzMzE2MDQ4MiwidXNlcklkIjoiMTg4ODc4NjkzNSJ9';
     var headers = {
     'Content-Type': 'application/json',
     'x-domo-authentication': SID
@@ -23,7 +23,7 @@ var QuickstartsDriver = (function() {
 
 publicInterface.fetchCollection = function(id, callback) {
 console.log("2. I'm getting the collection");
-        var url = 'https://domo.domo.com/api/content/v1/stacks/' + id;
+        var url = 'https://domo-quickstarts1.beta.domo.com/api/content/v1/stacks/' + id;
         var options = {
             url: url,
             method: 'GET',
@@ -55,7 +55,7 @@ console.log("7. I'm getting the card");
     'x-domo-authentication': SID
     }
 
-    var url = 'https://domo.domo.com/kpis/getkpis';
+    var url = 'https://domo-quickstarts1.beta.domo.com/kpis/getkpis';
     var options = {
         url: url,
         body: payload,
@@ -71,6 +71,7 @@ console.log("7. I'm getting the card");
             var card = body
             row = {}
             var open = card[id];
+            var fileName = "quickstarts/" + params.connector + ".csv";
 
             var cardTitle = open.kpiTitle;
             var cardDesc = open.description;
@@ -92,7 +93,7 @@ console.log("8. Add to the stack");
             totalrows += 1;
 console.log(collectionsLoop + " " + i + " " + cardLoop + " " + x);
             if (totalrows == totalcards) {
-                print(cardsCSV);
+                print(cardsCSV, fileName);
             }
 
 

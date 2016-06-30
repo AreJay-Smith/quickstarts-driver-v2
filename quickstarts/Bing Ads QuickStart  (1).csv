@@ -1,0 +1,55 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Bing Ads QuickStart  (1)","Executive Pulse: 5 metrics you should check daily.","","Bottom Campaigns","BOTTOM CAMPAIGNS
+Ranks the bottom 25 campaigns by the number of conversions earned and displays the total amount spent on each campaign. Improve or suspend costly campaigns that aren't generating results.","1773189320","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Low Quality Clicks","LOW QUALITY CLICKS
+Shows the total number of clicks per campaign compared to the number of low quality clicks. Consider allocating ad spend to the campaigns with the highest quality clicks.","379100718","Campaign Performance","49218e83-c818-4449-9824-b4d9ec593bf1"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Impressions Lost to Budget","IMPRESSIONS LOST TO BUDGET
+Shows the percentage of total impressions an ad did not receive due to issues with its daily or monthly budget. Use this information to help guide decisions about future budget allocations.","947426837","Share of Voice","9b9d0613-7345-49b5-9019-33434f3eb620"
+"Bing Ads QuickStart  (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","Campaign Budget Spend","CAMPAIGN BUDGET SPEND
+Ranks your top 10 campaigns by the percent of budget spent for the current month. Prevent critical campaigns from shutting down prematurely by raising their monthly budget before they reach the limit.","1409034899","Budget Summary","029aaef2-c92c-4de3-a509-34dc82988b37"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Click-Through Rate","CLICK-THROUGH RATE
+Measures the percentage of impressions that resulted in a click and a visit to the desired website. Consider A-B testing creatives in order to find the most effective ads and modifying ad placements to better reach your target audience.","1457668139","Account Performance","6ae0b9ca-ee07-4359-a3c6-cecca6ddec49"
+"Bing Ads QuickStart  (1)","Executive Pulse: 5 metrics you should check daily.","","Costs","COSTS
+Compares total ad spend with the average costs per click and conversion. Reduce overall spend and maximize returns by minimizing the costs required to earn clicks and conversions.","1677586771","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Impressions Lost to Keyword Relevance","IMPRESSIONS LOST TO KEYWORD RELEVANCE
+Shows the percentage of total impressions an ad did not receive due to issues with the relevance of its keywords. Determine where improvements can be made to improve keyword relevance.","2025232279","Share of Voice","9b9d0613-7345-49b5-9019-33434f3eb620"
+"Bing Ads QuickStart  (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","CPA Trend","CPA TREND
+Compares the cost per acquisition/conversion (CPA) against the number of conversions over the specified period. Campaigns that cost more per conversion than they are generating in revenues should be changed or discontinued.
+
+Cost per Conversion (CPA) = Ad Spend / Conversions","1942605421","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Ad Position Trend","AD POSITION TREND
+Measures the average ad position over the specified period. Raise your maximum bid or increase your quality score to improve your ad position.","608935758","Keyword Performance","01594aec-129b-4ec1-b3c7-9885a3a7aa56"
+"Bing Ads QuickStart  (1)","Ad Conversion: Are your ads driving sales or generating costs?","","Conversion Rate and Conversions","CONVERSION RATE AND CONVERSIONS
+Measures the conversion rate of an ad compared to the total number of conversions of the ad. Implement broadly the campaign variables that produce the highest conversion rates.","1839007682","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","CPC Trend","CPC TREND
+Compares the average cost per click (CPC) against the number of clicks over the specified period. Improving your quality score can lead to a lower CPC by decreasing the bid amount required to earn a click.
+
+Cost per Click (CPC) = Spend / Clicks","808540440","Account Performance","6ae0b9ca-ee07-4359-a3c6-cecca6ddec49"
+"Bing Ads QuickStart  (1)","Ad Conversion: Are your ads driving sales or generating costs?","","Most Converted Keywords","MOST CONVERTED KEYWORDS
+Highlights the top 20 keywords that have generated the most conversions over the specified period. Replicate the successful elements of your highest performing keyword targets to increase conversions.","850745115","Keyword Performance","01594aec-129b-4ec1-b3c7-9885a3a7aa56"
+"Bing Ads QuickStart  (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","Cost per Conversion by Campaign","COST PER CONVERSION BY CAMPAIGN
+Measures the average advertising cost needed to gain a conversion event (a desired customer action). When cost per conversion increases, you should immediately examine your marketing efforts to see what has changed.","1139375779","Campaign Performance","49218e83-c818-4449-9824-b4d9ec593bf1"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Keywords Clicked","KEYWORDS CLICKED
+Ranks you top 20 keywords by the number of clicks they acquired over the specified period. Identify which of your keywords are driving the most clicks to your website.","1866577570","Keyword Performance","01594aec-129b-4ec1-b3c7-9885a3a7aa56"
+"Bing Ads QuickStart  (1)","Ad Conversion: Are your ads driving sales or generating costs?","","Campaign Conversion","CAMPAIGN CONVERSION
+Ranks each campaign by the number of clicks it received and shows its conversion rate as a relative proportion of converted and unconverted clicks. Replicate the successful elements of your highest performing campaigns to increase conversions.
+
+Conversion Rate = Conversions / Clicks","1276697389","Campaign Performance","49218e83-c818-4449-9824-b4d9ec593bf1"
+"Bing Ads QuickStart  (1)","Executive Pulse: 5 metrics you should check daily.","","Most Expensive Campaigns","MOST EXPENSIVE CAMPAIGNS
+Ranks the top 10 most expensive campaigns by total spend. Improve or suspend costly campaigns that aren't generating clicks and conversions.","1060214246","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Executive Pulse: 5 metrics you should check daily.","","Account Clicks","ACCOUNT CLICKS
+Measures the number of clicks for each account. Replicate best practices that lead to more clicks across your organization.","1420448500","Account Performance","6ae0b9ca-ee07-4359-a3c6-cecca6ddec49"
+"Bing Ads QuickStart  (1)","Ad Conversion: Are your ads driving sales or generating costs?","","Conversion Rate by Campaign","CONVERSION RATE BY CAMPAIGN
+Gives the percentage of ""clickers"" who perform a desired action within each of the top 10 campaigns. Consider testing target demographics, geographic location, advertising creative, calls to action, pricing, product offerings, etc.","2023600043","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Ad Conversion: Are your ads driving sales or generating costs?","","Ad Group Conversion","AD GROUP CONVERSION
+Ranks each ad group by the number of clicks it received and shows its conversion rate as a relative proportion of converted and unconverted clicks. Replicate the successful elements of your highest performing ad groups to increase conversions.
+
+Conversion Rate = Conversions / Clicks","667131076","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Campaign Impression Share","CAMPAIGN IMPRESSION SHARE
+Shows the estimated percentage of impressions that were used by the company's campaigns out of the total available impressions in the target market. Use this information to measure performance in target markets and to improve campaign strategy.","1630331359","Campaign Performance","49218e83-c818-4449-9824-b4d9ec593bf1"
+"Bing Ads QuickStart  (1)","Ad Engagement: What level of ad performance are you hitting?","","Quality Score Trend","QUALITY SCORE TREND
+Measures the average quality score (max. 10) over the specified period. Modify your campaign content  or adjust your keyword targeting to increase quality score.","1193668932","Keyword Performance","01594aec-129b-4ec1-b3c7-9885a3a7aa56"
+"Bing Ads QuickStart  (1)","Executive Pulse: 5 metrics you should check daily.","","Top Keywords","TOP KEYWORDS
+Ranks the top keywords by the number of clicks acquired over the specified period. Identify which of your keywords are driving the most clicks to your website.","1363192072","Keyword Performance","01594aec-129b-4ec1-b3c7-9885a3a7aa56"
+"Bing Ads QuickStart  (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","Projected Spend","PROJECTED SPEND
+Shows the total amount of recent ad spend and forecasts spend for the current period. Compare forecasts to your goals and adjust budgets if necessary.","245410659","Conversion Performance","7617d6ba-eb91-4fb2-a1e1-41681a386e23"

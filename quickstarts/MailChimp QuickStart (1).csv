@@ -1,0 +1,41 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"MailChimp QuickStart (1)","Deliveries and Bounces: Grow your email list without hurting your deliverability.","","Delivery Rate","DELIVERY RATE
+Compares the delivery rate to the number of deliveries over the specified time period. Watch for dips in the delivery rate in conjunction with spikes in send volume. Prevent low delivery rates from adversely affecting the company’s sender score by pruning email lists as necessary.
+
+Delivery Rate = Deliveries / Sends","1386524326","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Executive Pulse: 4 cards you need for understanding your email performance.","","Recent Click Activity","RECENT CLICK ACTIVITY
+Tracks the number of clicks for campaigns published over the period of interest. Monitor the engagements originating from emails and determine if adjustments need to be made in how you reach your target audience.","736173383","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Executive Pulse: 4 cards you need for understanding your email performance.","","Recent Email Engagement","RECENT EMAIL ENGAGEMENT
+Displays the email activity for emails published over the period of interest. Spot peculiar datapoints to understand how readers are reacting to your messages and react accordingly.","1734941327","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Deliveries and Bounces: Grow your email list without hurting your deliverability.","","Campaign Unsubscribes","CAMPAIGN UNSUBSCRIBES
+Displays the top-20 campaigns responsible for the most unsubscribes. Determine what types of content are leading people to unsubscribe and determine if certain campaigns need revising or to be discontinued.
+
+Unsubscribe Rate = Unsubscribes / Deliveries","2065757012","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Opens Worldwide","OPENS WORLDWIDE
+Identifies the number of emails opened worldwide. Gain insight into how the company's messaging is resonating with people of other cultures.","1101398057","Campaign Geo Opens","79862371-a5b0-4e67-91cb-2f8b35307219"
+"MailChimp QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Abuse Reports","ABUSE REPORTS
+Measures the number of emails that recipients reported as spam. Identify what types of content are leading people to report emails as spam, or perhaps investigate if targeting practices need improving.","1993682344","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Open Rate","OPEN RATE
+Compares the open rate to the total number of unique opens over the specified time period. If open rates are lower than expected, consider A/B testing variations in messaging to elicit more opens.
+
+Open Rate = Unique Opens / Deliveries","1790267836","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Deliveries and Bounces: Grow your email list without hurting your deliverability.","","Unsubscribes","UNSUBSCRIBES
+Measures the number of unsubscribes over the specified time period. Gauge the effectiveness of your emails. High unsubscribe rates could indicate irrelevant content or poor segmentation targeting.","1449434905","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Executive Pulse: 4 cards you need for understanding your email performance.","","Most Opened Campaigns","MOST OPENED CAMPAIGNS
+Ranks the 10 most frequently opened emails over the specified period. Get an idea of what messages are permeating through your target audience today.","1214823581","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Deliveries and Bounces: Grow your email list without hurting your deliverability.","","Bounces Trend","BOUNCES TREND
+Measures the total volume of bounces over the specified period and breaks them into three categories: hard, soft and other bounces. If soft bounces number more than hard bounces, the company’s emails are likely being blocked by ISPs. Consider pruning email lists to improve bounce rates and prevent further blocking.","47603893","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","CTR Trend","CLICK-THROUGH RATE TREND
+Compares the click-through rate to the number of clicks over the specified time period. Consider spreading out total send volume to maximize customer mindshare and reduce email fatigue.
+
+Click-Through Rate (CTR) = Unique Clicks / Deliveries","1883861980","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Executive Pulse: 4 cards you need for understanding your email performance.","","Least Clicked Campaigns","LEAST CLICKED CAMPAIGNS
+Ranks the bottom 25 campaigns by click-through rate and displays the amount of un-clicked deliveries. Suspend or modify emails that are not generating the results you desire.","1421810997","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","CTOR Trend","CLICK-TO-OPEN RATE TREND
+Compares the click-to-open rate to the number of clicks over the specified time period. Consider using this information to gauge the effectiveness of an email’s messaging in generating leads and adjust ad content appropriately.
+
+Click-to-Open Rate (CTOR) = Unique Clicks / Unique Opens","1214516674","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"
+"MailChimp QuickStart (1)","Deliveries and Bounces: Grow your email list without hurting your deliverability.","","Bounce Rate","BOUNCE RATE
+Compares the bounce rate to the total number of bounces over the specified time period. Many ISPs use a sender’s bounce rate to determine whether any given message should be considered spam. Identify email lists whose bounce rates and volume are high to discover which distribution lists need maintenance.
+
+Bounce Rate = Total Bounces / Sends","327987313","Campaign Stats","a1ebffaa-6f2e-41dc-bcd4-c6ce452d5a0c"

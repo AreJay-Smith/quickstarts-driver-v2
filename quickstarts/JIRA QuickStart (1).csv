@@ -1,0 +1,30 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"JIRA QuickStart (1)","Executive Pulse: 5 cards to keep your eye on.","","Open Issues","OPEN ISSUES
+Shows the open issues by their created dates in the period of interest. Allocate resources to handle all open issues on time. ","525276932","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Issues: What can you do today to hit your closure goals?","","New Issues Trend","NEW ISSUES TREND
+Track inbound issues over the period of interest. Ensure that resources are available to cover all issues efficiently. ","1456576716","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Executive Pulse: 5 cards to keep your eye on.","","Resolvers","RESOLVERS
+Displays the names of the employees who have resolved the most tickets in the period. Identify top performers in order to learn best practices and leverage those employees' skills in training others.","61131819","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Project: Identify project status and recognize top performers.","","Project Issue Status","PROJECT ISSUE STATUS
+Displays projects by the volume of issues and their corresponding status. Identify which projects need the most attention and assign resources appropriately.","887176021","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Issues: What can you do today to hit your closure goals?","","Status Trend","STATUS TREND
+Displays a trend in issue status over the period of interest. Watch for increases in a particular trend that may signal the need to take action. ","1456834843","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Issues: What can you do today to hit your closure goals?","","Issues Keys","ISSUES KEYS
+Measures the volume of issues reported and displays the current status. Optimize project management by predicting changes in issue volume and reallocating resources to compensate.","602097426","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Executive Pulse: 5 cards to keep your eye on.","","Hot Projects","HOT PROJECTS
+Displays the projects that are most important to the organization, based on the number of issues each project has.  Identify which projects have the most issues and allocate resources accordingly.","1757561011","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Project: Identify project status and recognize top performers.","","Work In Progress","WORK IN PROGRESS
+Displays basic information about issues in ""open"" and ""in progress"" statuses in the given period. Use this table as a quick reference to focus workload. ","655706023","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Executive Pulse: 5 cards to keep your eye on.","","New Issues Trend","NEW ISSUES TREND
+Shows the trend of newly created issues over a defined time period.  Use the trend to understand when new issues are likely to come in and plan resources accordingly.","1205755535","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Project: Identify project status and recognize top performers.","","Top Resolvers","TOP RESOLVERS
+Ranks the top 15 resolvers by the number of issues they resolved in the period. Recognize top resolvers and identify best practices that can be shared with the team.","1357547586","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Executive Pulse: 5 cards to keep your eye on.","","New Issues","NEW ISSUES
+Displays the trend in issues created over the period. Identify which types of issues should be given the most focus from the organization.","862232925","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Project: Identify project status and recognize top performers.","","Top Reporters","TOP REPORTERS
+Ranks the top 20 reporters by the number of issues reported. Identify the top reporters and assign support resources to them appropriately.","401232925","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Issues: What can you do today to hit your closure goals?","","Issue Status","ISSUE STATUS
+Shows the current status of all issues in the period. Try to reduce ""open"" and ""reopened"" issues to lower the overall workload.","1854333659","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"
+"JIRA QuickStart (1)","Project: Identify project status and recognize top performers.","","Top Assignees","TOP ASSIGNEES
+Ranks the top 10 assignees by the volume of assigned issues. Optimize assignee load to ensure that issues are resolved most efficiently. 
+","1823741332","Issues","39ef220a-0394-475a-b4f7-51d3029624b7"

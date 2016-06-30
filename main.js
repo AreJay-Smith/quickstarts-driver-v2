@@ -4,7 +4,7 @@ var fs = require('fs');
 var Utils = require('utils');
 var sleep = require('sleep');
 
-var quickstartsIds = [349111882]
+var quickstartsIds = [1270294377]
 
 var fields = ['connector', 'collection', 'collection_description', 'card', 'card_description', 'card_id', 'data_name', 'dataset_id' ];
 var row = {};
@@ -17,13 +17,13 @@ var totalcards;
 var collectionLookup = {};
 var descriptionLookup = {};
 
-var print = function(cardsCSV) {
+var print = function(cardsCSV, fileName) {
 
     json2csv({ data: cardsCSV, fields: fields}, function(err, csv) {
             if (err) console.log(err);
-            fs.writeFile('echo.csv', csv, function(err) {
+            fs.writeFile(fileName, csv, function(err) {
                 if (err) throw err;
-                console.log('file saved');
+                console.log('file ' + fileName + ' saved');
             });
         });;
 }
@@ -89,7 +89,7 @@ console.log("6. Let's go through the cards");
 }
 
 var begin = function(){
-    for (var i = 0; i < 1; i++) {
+    for (var i = 0; i < 2; i++) {
 
         //last Id?
         console.log("1. Begin the first loop");

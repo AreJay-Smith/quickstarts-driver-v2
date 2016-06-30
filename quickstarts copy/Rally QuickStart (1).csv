@@ -1,0 +1,46 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Rally QuickStart (1)","Executive Pulse: 4 metrics you should track daily.","","Planned Velocity","PLANNED VELOCITY
+Tracks the amount of velocity points that have been allocated to different project iterations. Monitor velocity points in order to distribute resources effectively. 
+
+","337323628","Iteration","9754f685-8e4a-4ca7-900d-ff4632477e7c"
+"Rally QuickStart (1)","Velocity: How quickly is your team delivering on assignments?","","Iterations","ITERATIONS
+Shows the duration of the planned iterations. Know the deadlines for each iteration in order to formulate a project plan.","1664118700","Iteration","9754f685-8e4a-4ca7-900d-ff4632477e7c"
+"Rally QuickStart (1)","Tasks: What tasks are taking the longest to complete?","","Remaining vs. Estimated","REMAINING VS. ESTIMATED
+Shows the remaining time needed to complete a task versus how much time was estimated to complete the task. View estimates to determine how accurate projections are and try to improve future estimates.
+","64599831","Task","d28b5b05-ebc8-4b8c-9b19-136799856dd4"
+"Rally QuickStart (1)","Defects: What iterations are causing the most defects?","","Open Defect Priority","OPEN DEFECT PRIORITY
+Tracks the total number of ""Open"" defects along with their respective priority. Focus on the top priority open defects. 
+","934049697","Defect","28bbfb71-b3ac-4364-8d59-550892483bdf"
+"Rally QuickStart (1)","Executive Pulse: 4 metrics you should track daily.","","Story Status","STORY STATUS
+Breaks down your projects' stories by their current status.  Review statuses to determine where work hours should be focused.
+
+","1701418102","Hierarchical Requirement","358c65d1-f6d9-4301-8177-9ca19920d242"
+"Rally QuickStart (1)","Velocity: How quickly is your team delivering on assignments?","","Story Velocity Points","STORY VELOCITY POINTS
+Shows the Top 15 stories in the backlog that will require the most resources to complete, based on estimated hours. Allocate appropriate resources to complete the top stories on time.","830649966","Hierarchical Requirement","358c65d1-f6d9-4301-8177-9ca19920d242"
+"Rally QuickStart (1)","Defects: What iterations are causing the most defects?","","Open Defects","OPEN DEFECTS
+Shows all open defects during a given period. Use this table as a quick reference to take action on open defects.","909618705","Defect","28bbfb71-b3ac-4364-8d59-550892483bdf"
+"Rally QuickStart (1)","Stories: How many stories are we completing?","","Story Plan Estimation","STORY PLAN ESTIMATION
+Shows the estimated amount of time needed to complete a given story within the backlog  (Top 25 shown). Identify top stories and plan resource allocation accordingly. 
+","1971208333","Hierarchical Requirement","358c65d1-f6d9-4301-8177-9ca19920d242"
+"Rally QuickStart (1)","Tasks: What tasks are taking the longest to complete?","","Task Status","TASK STATUS
+Tracks the status of all tasks for a given iteration, providing insight into how complete the overall iteration is. Pay close attention to those tasks that are in progress to track to completion.
+
+","975635512","Task","d28b5b05-ebc8-4b8c-9b19-136799856dd4"
+"Rally QuickStart (1)","Stories: How many stories are we completing?","","All Stories","ALL STORIES
+Shows the status of all stories during the selected time period (by creation date). Use this table as a quick reference to check the stories you are focused on.","1125570280","Hierarchical Requirement","358c65d1-f6d9-4301-8177-9ca19920d242"
+"Rally QuickStart (1)","Defects: What iterations are causing the most defects?","","Open Defects Severity","OPEN DEFECTS SEVERITY
+Tracks the number of ""Open"" defects along with their respective severity during the period. Analyze the number of open defects in each area to determine where to best prioritize resources.","1536187052","Defect","28bbfb71-b3ac-4364-8d59-550892483bdf"
+"Rally QuickStart (1)","Velocity: How quickly is your team delivering on assignments?","","Iteration Status","ITERATION STATUS
+Tracks the status of each project's iterations during the period. Identify the stages of each iteration to allocate resources accordingly. ","1831312197","Iteration","9754f685-8e4a-4ca7-900d-ff4632477e7c"
+"Rally QuickStart (1)","Executive Pulse: 4 metrics you should track daily.","","Completed Stories","COMPLETED STORIES
+Tracks how many stories each team member has completed in the period. Identify completed stories that are pending acceptance. 
+","90057173","Hierarchical Requirement","358c65d1-f6d9-4301-8177-9ca19920d242"
+"Rally QuickStart (1)","Stories: How many stories are we completing?","","Perfect vs. Defective","PERFECT VS. DEFECTIVE
+Tracks how many of the projects' stories are completed perfectly verses those with defects during the period. Convert defective stories to perfect stories to increase the acceptance rate.","1908949447","Hierarchical Requirement","358c65d1-f6d9-4301-8177-9ca19920d242"
+"Rally QuickStart (1)","Tasks: What tasks are taking the longest to complete?","","Blocked vs. Completed Tasks","BLOCKED VS. COMPLETED TASKS
+Measures how many tasks have been blocked versus those that have been completed. Blocked tasks are those that cannot be completed during the given iteration due to unforeseen complications.
+
+","49476476","Task","d28b5b05-ebc8-4b8c-9b19-136799856dd4"
+"Rally QuickStart (1)","Executive Pulse: 4 metrics you should track daily.","","Task Status","TASK STATUS
+Tracks the status of perfect and defective tasks during the period. Convert defective tasks to perfect tasks to increase your story acceptance rate.
+","1968743025","Task","d28b5b05-ebc8-4b8c-9b19-136799856dd4"

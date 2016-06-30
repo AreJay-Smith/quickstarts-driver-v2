@@ -1,0 +1,33 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Zendesk QuickStart Rapture","Backlog Management: How well do you work through your backlog?","","Backlog Impact","BACKLOG IMPACT
+Measures the increase and decrease in backlog as a result of the last 30 days of activity. Quickly identify if you have a positive or negative impact on the backlog.","2030649945","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Executive Pulse: How well are you hitting service level?","","Open Ticket Priority","OPEN TICKET PRIORITY
+Displays the total number of tickets opened in the period that are high priority and normal. Monitor this card to determine high priority tickets that should be given extra attention.","1717789830","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Executive Pulse: How well are you hitting service level?","","Customer Satisfaction","CUSTOMER SATISFACTION
+Display of customer feedback over the given period. Use this information to see how customers are responding to the service you provide.","978555071","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Backlog Management: How well do you work through your backlog?","","New Tickets","NEW TICKETS
+Tracks inbound tickets by day according to their type. Large increases in certain types of tickets could indicate a problem.","1747305378","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Executive Pulse: How well are you hitting service level?","","New Tickets","NEW TICKETS
+Shows ticket growth over time. Analyze the trend to determine future staffing needs. ","1695807373","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Resources: Identify top performers and high priority tickets.","","Top Requesters","TOP REQUESTERS
+Ranks the top 10 requesters by the volume of requested tickets. Identify who is submitting high amounts of tickets and plan on allocating dedicated support  for those requesters.","1566903087","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Executive Pulse: How well are you hitting service level?","","Recent Tickets","RECENT TICKETS
+Displays the trend in tickets status over time. Measure the volume of new and open tickets to help in resource management planning. ","2025335296","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Solution Quality: Are you addressing issues in a quality manner?","","Days to Solve","DAYS TO SOLVE
+Shows the average number of days to solve tickets based on the ticket priority. Monitor this information to ensure that high priority tickets are being closed in an acceptable time period.","525039545","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Resources: Identify top performers and high priority tickets.","","Top Assignees","TOP ASSIGNEES
+Ranks the top 10 assignees by the volume of assigned open tickets. Identify which employees are overloaded and reallocate resources appropriately based on the status of the tickets.","872945669","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Resources: Identify top performers and high priority tickets.","","Top Ticket Closers","TOP TICKET CLOSERS
+Displays the name of employees who have resolved the most tickets in the period. Identify top performers in order to learn best practices and leverage those employees' skills in training others. ","9523055","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Backlog Management: How well do you work through your backlog?","","Status Trend","STATUS TREND
+Displays a trend in ticket status over time. Look for increases and decreases in each ticket category to gauge performance and to determine if any status needs to be given additional attention.","148573504","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Executive Pulse: How well are you hitting service level?","","Top Resolvers",,"1883707309","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Backlog Management: How well do you work through your backlog?","","Unsolved Tickets",,"1025728753","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Solution Quality: Are you addressing issues in a quality manner?","","Customer Satisfaction Trend","CUSTOMER SATISFACTION TREND
+Tracks favorable customer satisfaction ratings over time while also showing how many tickets were closed. Identify the impact on customer satisfaction based on the number of tickets being closed every day.","468676839","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Solution Quality: Are you addressing issues in a quality manner?","","Average Hours to Respond","AVERAGE HOURS TO RESPOND
+Tracks how quickly a customer has received a response to a ticket. Ensure that processes are in place to optimize ticket response times.","1299535048","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Resources: Identify top performers and high priority tickets.","","High Priority Tickets","HIGH PRIORITY TICKETS
+Displays the high priority tickets with their associating statuses. Use this information in assignment and resource allocation decisions.","1637888086","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"
+"Zendesk QuickStart Rapture","Solution Quality: Are you addressing issues in a quality manner?","","Average Hours to Assign","AVERAGE HOURS TO ASSIGN
+Measures how quickly tickets are being assigned. Ensure that processes are in place for assigning tickets in a timely and effective manner.","85294504","Tickets with Users","c9abb2bf-5425-45ae-97ad-d216236906c0"

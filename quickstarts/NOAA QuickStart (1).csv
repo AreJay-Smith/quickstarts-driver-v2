@@ -1,0 +1,26 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"NOAA QuickStart (1)","NOAA Pulse: 3-day forecast at your fingertips.","","Sun Forecast in 2 Days","SUN FORECAST IN 2 DAYS
+Shows a green happy face if the forecast is sunny, an orange face if it's not sunny and a blank face if there is no data.","245177887","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","NOAA Pulse: 3-day forecast at your fingertips.","","High Temperature Trend","HIGH TEMPERATURE TREND
+Shows high temperatures over time. This data will become more comprehensive and trends will grow as you use Domo.","387249608","Daily","a482f322-92fb-4495-9aee-f21e2d4e8db9"
+"NOAA QuickStart (1)","Forecasts: Weather predictions for the next 5 days.","","Temp Change Tomorrow","TEMPERATURE CHANGE TOMORROW
+The difference between the high temperature of today and tomorrow.","934993427","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","Forecasts: Weather predictions for the next 5 days.","","Temp Range Forecasts","TEMPERATURE RANGE FORECASTS
+Forecast high and low temperatures for the next seven days. ","1546016429","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","Trends: What has the weather been like since you started using Domo?","","Weather Type","WEATHER TYPE
+Displays the occurrences of different types of weather. This information will grow over time and will show the shift in weather type.","340330505","Daily","a482f322-92fb-4495-9aee-f21e2d4e8db9"
+"NOAA QuickStart (1)","NOAA Pulse: 3-day forecast at your fingertips.","","Sun Forecast Tomorrow","SUN FORECAST TOMORROW
+Shows a green happy face if the forecast for tomorrow is sunny, an orange face if it's not sunny and a blank face if there is no data.","1362746538","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","Forecasts: Weather predictions for the next 5 days.","","High Temp Forecasts","HIGH TEMPERATURE FORECASTS
+Projected high temperatures for the next seven days.","1620897734","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","Trends: What has the weather been like since you started using Domo?","","Top Ten Coldest Days","TOP TEN COLDEST DAYS
+Tracks the dates and temperatures of the ten coldest days since you have started using Domo.","1008701407","Daily","a482f322-92fb-4495-9aee-f21e2d4e8db9"
+"NOAA QuickStart (1)","Trends: What has the weather been like since you started using Domo?","","Top Ten Hottest Days","TOP TEN HOTTEST DAYS
+Tracks the dates and temperatures of the ten hottest days since you have started using Domo.","1622607639","Daily","a482f322-92fb-4495-9aee-f21e2d4e8db9"
+"NOAA QuickStart (1)","Forecasts: Weather predictions for the next 5 days.","","Weather Type Forecasts",,"172010560","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","NOAA Pulse: 3-day forecast at your fingertips.","","Sun Forecast Today","SUN FORECAST TODAY
+Shows a green happy face if today's forecast is sunny, an orange face if it's not sunny and a blank face if there is no data.","931118144","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"
+"NOAA QuickStart (1)","Trends: What has the weather been like since you started using Domo?","","Daily Temperature Range","DAILY TEMPERATURE RANGE
+Shows the trend in high and low temperatures. This information will grow over time. ","2007938025","Daily","a482f322-92fb-4495-9aee-f21e2d4e8db9"
+"NOAA QuickStart (1)","NOAA Pulse: 3-day forecast at your fingertips.","","Precipitation Forecasts","PRECIPITATION FORECASTS
+Shows the chance of precipitation for the next 7 days. ","157692049","Trend","d7c1fdff-c09e-4c8c-ae7e-24de89e4b033"

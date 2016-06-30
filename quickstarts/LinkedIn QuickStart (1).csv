@@ -1,0 +1,49 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"LinkedIn QuickStart (1)","Reach: What is the size of your network?","","Firm Size Breakdown","FIRM SIZE BREAKDOWN
+Displays the number of followers the company has, grouped by the followers' company size. Use this information to make sure you are creating content that is relevant to your audience base.","1066959329","Followers by Company Size","10ce9658-2c26-4c9b-9d07-6ad263a0096b"
+"LinkedIn QuickStart (1)","Executive Pulse: 6 metrics you should not overlook.","","Top Follower Countries","TOP FOLLOWER COUNTRIES
+Displays the number of followers the company has, grouped by the followers’ countries. Note: Some followers have not disclosed geographical location. Target geographic areas where fan growth is small to increase market share.","980891935","Followers by Country","dc287bb6-56a0-4dc8-a986-84827b21f74c"
+"LinkedIn QuickStart (1)","Reach: What is the size of your network?","","Seniority Segments","SENIORITY SEGMENTS
+Displays the number of followers the company has, grouped by the followers' seniority levels. Post content that will capture the business role you are trying to attract. ","1284557837","Followers by Seniority","7cb04b0f-1382-49af-96e6-e700c8405588"
+"LinkedIn QuickStart (1)","Executive Pulse: 6 metrics you should not overlook.","","Most Engaging Updates","MOST ENGAGING UPDATES
+Ranks the top performing updates based on the number of likes acquired. Identify the root causes for high performing updates. This information can then be used to help guide content creation in the future. 
+
+Note: Data will be returned for: 1) up to 250 updates or 2) the past 20 days (depending on what the API reaches first). ","1341577597","Company Status Updates","713f32c2-4ee9-45eb-957f-848e04d0eda3"
+"LinkedIn QuickStart (1)","Reach: What is the size of your network?","","Top 10 Job Functions","TOP 10 JOB FUNCTIONS
+Displays the number of followers the company has, grouped by the followers' job function. Tailor promotional efforts to the job functions that will best benefit your brand. ","1975513379","Followers by Function","b373d634-14fa-490b-9dcd-fdadf91212f1"
+"LinkedIn QuickStart (1)","Content Optimization: What content is most popular?","","Status Update Engagement","STATUS UPDATE ENGAGEMENT
+Shows all company updates and the number of likes and comments acquired. Identify the reasons for why posts performed better than others to improve future content creation efforts. 
+
+Note: Data will be returned for: 1) up to 250 updates or 2) the past 20 days (depending on what the API reaches first).","86378485","Company Status Updates","713f32c2-4ee9-45eb-957f-848e04d0eda3"
+"LinkedIn QuickStart (1)","Content Optimization: What content is most popular?","","People Liking Content","PEOPLE LIKING CONTENT
+Shows the people who have liked your content most recently. Reach out to individuals to nourish relationships and enhance your brand.","1565904444","Likes Breakdown","e091048d-effb-4dad-9c3e-971c62c4cdd6"
+"LinkedIn QuickStart (1)","Content Optimization: What content is most popular?","","Recent Comments","RECENT COMMENTS
+Shows the most recent comments made on your content. Reach out to individuals to nourish relationships and enhance your brand.","1186603304","Company Update Comments","85d28525-db06-47a7-beb6-8b011d3a3f3b"
+"LinkedIn QuickStart (1)","Engagement: How engaging is your content?","","Comments Trend","COMMENTS TREND
+Shows the number of comments made on your posts over a given time period. Post content that is relevant to your follower base and encourages engagement. ","1524255202","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Engagement: How engaging is your content?","","Likes Trend","LIKES TREND
+Shows the number of times LinkedIn users ""liked"" your post or article. Post content that has acquired the most likes to other social sites to increase positive visibility. ","1593220926","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Engagement: How engaging is your content?","","Shares Trend","SHARES TREND
+Shows the total number of content shares on the company's LinkedIn account during the period. Invite users to tag their friends or share content by posting interesting material that is relevant to your follower base. ","1708722964","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Executive Pulse: 6 metrics you should not overlook.","","Shares and Forecast","SHARES AND FORECAST
+Shows the total number of content shares on the company's LinkedIn account during the period. Invite users to tag their friends or share content by posting interesting material that is relevant to your follower base. ","181968914","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Reach: What is the size of your network?","","Top 10 Industries","TOP 10 INDUSTRIES
+Displays the number of followers the company has, grouped by the followers' industry. Assess whether your brand is effectively targeting the industries you wish to attract.","972705815","Followers by Industry","d206c79d-9173-4efe-a590-ea9c6e893be8"
+"LinkedIn QuickStart (1)","Executive Pulse: 6 metrics you should not overlook.","","Followers Trend","FOLLOWERS TREND
+Displays the total number of company followers broken down by the manner in which they were acquired: organic versus paid. Consider creating content that invites people to take action so others can be exposed to your page and network.
+","1969287462","Historical Follower Counts","14a6239b-e64b-42c9-bd4a-be337185c52e"
+"LinkedIn QuickStart (1)","Engagement: How engaging is your content?","","Click-Through Rate","CLICK-THROUGH RATE
+Tracks the number of times each update was shown to (or viewed by) LinkedIn members, along with the click-through rate over time. Strive to create compelling content and set goals to keep click-through rates above a certain threshold.
+
+
+Click-Through Rate = Clicks / Impressions","1770307757","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Engagement: How engaging is your content?","","Clicks Trend","CLICKS TREND
+Measures the total number of times your company's content, name or logo was clicked during the period. Use this information to determine how effectively your page is attracting traffic over time. ","1607700468","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Executive Pulse: 6 metrics you should not overlook.","","Engagement Trends","ENGAGEMENT TRENDS
+Measures the number of interactions (likes, comments or shares) that have occurred on each piece of company content on LinkedIn over time. Each like, comment or share counts as one engagement. Identify the root causes for spikes in these trends for future posting strategies.","590035526","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"
+"LinkedIn QuickStart (1)","Executive Pulse: 6 metrics you should not overlook.","","Engagement Rate","ENGAGEMENT RATE
+Measures the amount of engagement, i.e. the combined number of clicks, likes, comments and shares on company LinkedIn updates. Consider the reasons for spikes in engagement rates and identify top engaging content.
+
+
+Engagement Rate = The number of clicks, shares, likes and comments / impressions.
+","1614718808","Historical Company Update Statistics","b2eb4a6a-5a74-45f4-b84f-54f099c502bc"

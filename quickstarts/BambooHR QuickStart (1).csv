@@ -1,0 +1,43 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"BambooHR QuickStart (1)","Employee Churn: Analyze terminations and retention","","Retention by Department","RETENTION BY DEPARTMENT
+Percentage of retained employees by department. Look for departments that have high retention and try to replicate their success.
+
+Retention Rate =  (Active Employees / Total Individuals Hired) * 100","1721186009","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Demographics: Craft appropriate benefit programs","","Employee Directory","EMPLOYEE DIRECTORY
+A list of company employees with department, job title and contact information.","1469333690","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Diversity: Balance age, gender and race/ethnicity of employees","","Employment Status","EMPLOYMENT STATUS
+Number of employees by employment status.","1459435669","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Demographics: Craft appropriate benefit programs","","Employees by Gender","EMPLOYEES BY GENDER
+Number of male and female employees currently employed. ","128448078","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Executive Pulse: 5 Numbers all HR Directors should know by heart.","","New Hires","NEW HIRES
+Number of employees hired in each period. Look for cycles in your hiring trends and prepare accordingly.","252888391","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Demographics: Craft appropriate benefit programs","","Age Stratification","AGE STRATIFICATION
+Number of employees in each age range. Evaluate benefit programs using age as a proxy for life stage.","718606057","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Executive Pulse: 5 Numbers all HR Directors should know by heart.","","Retention Rate","RETENTION RATE
+Percent of employees that have stayed with the organization. Use this rate to calibrate your incentives to retain your employees.
+
+Retention Rate =  (Active Employees / Total Individuals Hired) * 100","1031957572","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Demographics: Craft appropriate benefit programs","","Salaries by Department","SALARIES BY DEPARTMENT
+Summary statistics for annual income of salaried employees by department. Determine if you are compensating employees appropriately.","530230029","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Diversity: Balance age, gender and race/ethnicity of employees","","Age by Department","AGE BY DEPARTMENT
+Age range of employees in each department.","883777136","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Diversity: Balance age, gender and race/ethnicity of employees","","Employees by Race/Ethnicity","EMPLOYEES BY RACE/ETHNICITY
+Number of employees based upon their race/ethnicity. ","740228480","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Executive Pulse: 5 Numbers all HR Directors should know by heart.","","Total Employees","TOTAL EMPLOYEES
+Number of active employees in each department. Use this information to determine space requirements, payroll and benefit burden.","340568904","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Executive Pulse: 5 Numbers all HR Directors should know by heart.","","Employees by State","EMPLOYEES BY STATE
+Number of employees by the state in which they work. Use this information to distribute location specific information to employees.","225793932","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Executive Pulse: 5 Numbers all HR Directors should know by heart.","","Terminated Employees","TERMINATED EMPLOYEES
+Happy face for no terminations this month.","613294136","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Demographics: Craft appropriate benefit programs","","Marital Status by Department","MARITAL STATUS BY DEPARTMENT
+Number of married and single employees in each department. Evaluate partner benefits currently offered.","713308479","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Diversity: Balance age, gender and race/ethnicity of employees","","Department Gender Ratio","DEPARTMENT GENDER RATIO
+Percentage of male and female employees in each department.","1732681965","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Employee Churn: Analyze terminations and retention","","Tenure by Department","TENURE BY DEPARTMENT
+Number of years worked by employees by employee status. Replicate success of departments with long tenures.","307639714","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Employee Churn: Analyze terminations and retention","","Terminated Employees","TERMINATED EMPLOYEES
+Number of employees terminated over time. Identify termination patterns and what factors to monitor in current employees.","108818517","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Diversity: Balance age, gender and race/ethnicity of employees","","Salary and Age by Race/Ethnicity","SALARY AND AGE BY RACE/ETHNICITY
+Number of individuals in each racial/ethnicity category with average age and salary information.","226166538","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"
+"BambooHR QuickStart (1)","Employee Churn: Analyze terminations and retention","","Tenure of Terminated Employees","TENURE OF TERMINATED EMPLOYEES
+Number of years worked by terminated employees. Determine what factors contribute to tenure and how these factors may affect current employees.","349827384","Employee Data","ffe1fe3a-5416-4d78-a639-853cb1b5badf"

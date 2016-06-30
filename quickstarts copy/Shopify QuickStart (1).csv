@@ -1,0 +1,38 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Shopify QuickStart (1)","Revenue: Where are you generating the majority of your revenue?","","Customer Revenue","CUSTOMER REVENUE
+Lists all customers who have visited the site and registered with an email account, ordered by the amount they have spent. Use this information to market to and analyze users.","2107047252","All Customers","dee2bed5-00c4-469c-a552-0178dfd8bb7d"
+"Shopify QuickStart (1)","Executive Pulse: 6 metrics you should monitor daily.","","Customer Orders","CUSTOMER ORDERS
+Displays the number of items sold and any discounts that have been applied. View individual customers to see who is taking advantage of discounts and plan future discount strategies.","1330362957","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Inventory Management: Do you have the right product when you need it?","","Stockouts","STOCKOUTS
+Displays the number of SKUs according to when they are projected to run out. Use this information to help manage inventory levels and to plan purchases.","1830112763","All Products All Variants","546420d1-4b22-4df4-a14c-230fa33eb156"
+"Shopify QuickStart (1)","Executive Pulse: 6 metrics you should monitor daily.","","Items In Stock","ITEMS IN STOCK
+Displays a visual representation of all items currently in stock and the number of units that are available.  Monitor inventory levels and match them to customer purchases.","1368841779","All Products All Variants","546420d1-4b22-4df4-a14c-230fa33eb156"
+"Shopify QuickStart (1)","Executive Pulse: 6 metrics you should monitor daily.","","Inventory Profile","INVENTORY PROFILE
+Shows the total items sold out, available or back ordered by quarter. Use this information to manage your inventory levels.","276925613","All Products All Variants","546420d1-4b22-4df4-a14c-230fa33eb156"
+"Shopify QuickStart (1)","Revenue: Where are you generating the majority of your revenue?","","Top 10 States","TOP 10 STATES
+Ranks the Top 10 most productive revenue generating states. Consider focusing marketing and sales efforts on these states.","645162422","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Executive Pulse: 6 metrics you should monitor daily.","","Monthly Web Sales","MONTHLY WEB SALES
+Tracks the trend in total revenue generated to the total number of orders over the period of interest. Identify patterns in the trend to better forecast future demand. ","964481426","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Revenue: Where are you generating the majority of your revenue?","","Bottom 10 States","BOTTOM 10 STATES
+Shows the bottom 10 revenue generating states. Consider making adjustments to your marketing strategy in these states. ","1478941652","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Executive Pulse: 6 metrics you should monitor daily.","","Orders Trend","ORDERS TREND
+Contrasts the number of orders made in each month before and after the current date (i.e. the 9th of the month).  Find cycles of buying behavior to plan your marketing activity.","1517203844","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Orders: How are your sales performing?","","Price and Discounts","PRICE AND DISCOUNTS
+Shows the trend in total price and discounts on all orders in a given period. Modify your discount program depending on positive or negative sales growth.","27057985","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Revenue: Where are you generating the majority of your revenue?","","Order Traffic","ORDER TRAFFIC
+Displays the number of browsers, operating systems and devices that generate the most order traffic to the website. Optimize your content for the customers' buying experience and consider changes to low performing experiences.","1944657468","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Inventory Management: Do you have the right product when you need it?","","Inventory Types","INVENTORY TYPES
+Shows the product types that currently are in stock and the number of units available for sale. Identify high and low inventory items to plan your future purchases.","562356747","All Products All Variants","546420d1-4b22-4df4-a14c-230fa33eb156"
+"Shopify QuickStart (1)","Inventory Management: Do you have the right product when you need it?","","Current Inventory","CURRENT INVENTORY
+Displays the SKUs in stock and available units for sale. Evaluate your inventory and determine when to reorder items.","723530459","All Products All Variants","546420d1-4b22-4df4-a14c-230fa33eb156"
+"Shopify QuickStart (1)","Orders: How are your sales performing?","","Top 10 Revenue Items","TOP 10 REVENUE ITEMS
+Displays the items that are top sellers based on the total selling price of the items. Use this information to quickly identify the top revenue generating items. ","2083298688","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Inventory Management: Do you have the right product when you need it?","","Canceled Orders","CANCELED ORDERS
+Shows all orders that have been canceled in the time period, by reason. Determine if there are any order processing issues in your supply chain.  ","251484088","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Executive Pulse: 6 metrics you should monitor daily.","","State Revenue","STATE REVENUE
+Shows the concentration of orders, by state, with accompanying dollar amounts. Use this information to increase marketing efforts in high performing states and analyze sales in states that are low performing.
+","1879677230","All Customers","dee2bed5-00c4-469c-a552-0178dfd8bb7d"
+"Shopify QuickStart (1)","Orders: How are your sales performing?","","Top 10 SKUs","TOP 10 SKUS
+Ranks the Top 10 most productive SKUs based on total revenue. Consider focusing marketing and sales efforts on these SKUs.","779776563","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"
+"Shopify QuickStart (1)","Orders: How are your sales performing?","","Bottom 10 SKUs","BOTTOM 10 SKUS
+Ranks the bottom 10 SKUs based on total revenue. Evaluate the potential effects of removing these SKUs from your inventory.","1158636110","All Orders","cc9452a3-3895-4023-8e89-394b6feea1e2"

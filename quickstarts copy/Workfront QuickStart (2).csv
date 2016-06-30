@@ -1,0 +1,36 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Workfront QuickStart (2)","Projects: How is your organization doing with ongoing projects?","","Project Margin","PROJECT MARGIN
+Ranks each project by its proportion of gross margin. Rationalize budgets and returns for each project to ensure profitability.","610241751","Project","93fc5040-b13e-415d-ba1e-09869e67a72a"
+"Workfront QuickStart (2)","Executive Pulse: 5 cards to keep your eyes on.","","Tasks Completed","TASKS COMPLETED 
+Compares the number of completed tasks against the average days to complete the task according to its actual completion date. Identify trends in task completion in order to improve project resource management.","2146861651","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"
+"Workfront QuickStart (2)","Tasks: Is your team on track to completing their desired tasks?","","Days to Task Complete","DAYS TO TASK COMPLETE
+Measures the average days to a task's completion by its actual completion date. Watch for upward trends or spikes in average completion time and re-prioritize tasks that require added attention, as necessary.","393888871","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"
+"Workfront QuickStart (2)","Issues: How quickly is your team resolving issues?","","Longest Resolve Times","LONGEST RESOLVE TIMES
+Ranks the slowest 20 assignees by the average number of days required to resolve issues. Consider distributing high priority issues to the most efficient assignees and providing training opportunities to improve assignee performance.","1596972107","Issue","a49eaee2-d9ca-4dbd-b006-0043fdd011df"
+"Workfront QuickStart (2)","Projects: How is your organization doing with ongoing projects?","","Project Status","PROJECT STATUS 
+Measures the number of projects by their current status over the dates they were entered into Workfront. Identify long term trends in project growth in order to plan for future resource needs.","983303928","Project","93fc5040-b13e-415d-ba1e-09869e67a72a"
+"Workfront QuickStart (2)","Executive Pulse: 5 cards to keep your eyes on.","","Resolved Issues","RESOLVED ISSUES
+Compares the number of resolved issues against the average days to issue resolution according to its actual completion date. Identify trends in issue resolution in order to improve project resource management.","1714824957","Issue","a49eaee2-d9ca-4dbd-b006-0043fdd011df"
+"Workfront QuickStart (2)","Executive Pulse: 5 cards to keep your eyes on.","","Average Resolution Time","AVERAGE RESOLUTION TIME
+Measures the average number of days needed for issues to be resolved, plotted over actual completion date. Watch for upward trends or spikes in average resolution time and re-prioritize resources as necessary.","1454790800","Issue","a49eaee2-d9ca-4dbd-b006-0043fdd011df"
+"Workfront QuickStart (2)","Tasks: Is your team on track to completing their desired tasks?","","Completed Tasks","COMPLETED TASKS
+Measures the number of completed tasks by their status according to their actual completion date. Identify trends in task completion in order to improve project resource management.","2122928905","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"
+"Workfront QuickStart (2)","Tasks: Is your team on track to completing their desired tasks?","","Recent Task Completers","RECENT TASK COMPLETERS
+Ranks assignees by the number of tasks they have recently completed. Invite high performers to train new team members and document their best practices.","1764151149","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"
+"Workfront QuickStart (2)","Projects: How is your organization doing with ongoing projects?","","Average Completion Time","AVERAGE COMPLETION TIME
+Measures the average days to a project's completion, trended over time. Watch for upward trends or spikes in average completion time and re-prioritize project resources as necessary.","1353081307","Project","93fc5040-b13e-415d-ba1e-09869e67a72a"
+"Workfront QuickStart (2)","Issues: How quickly is your team resolving issues?","","Open Issues","OPEN ISSUES
+Displays the number of open issues that are associated with each project. Identify the progress being made on each issue and ensure that employees are properly utilized to resolve issues according to priority and severity. ","573386097","Issue","a49eaee2-d9ca-4dbd-b006-0043fdd011df"
+"Workfront QuickStart (2)","Issues: How quickly is your team resolving issues?","","Issues Trend","ISSUES TREND
+Displays the volume and status of issues, sorted by their actual start date. Gauge the load placed on the people resolving these issues and ensure that employees are properly utilized to resolve issues according to priority and severity.","260797133","Issue","a49eaee2-d9ca-4dbd-b006-0043fdd011df"
+"Workfront QuickStart (2)","Tasks: Is your team on track to completing their desired tasks?","","New Task Status","NEW TASK STATUS
+Shows the progress breakdown of recently created tasks that have a status currently flagged as new. Fix incorrect categorization of older tasks while minimizing the number of recently delayed tasks.","1559595415","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"
+"Workfront QuickStart (2)","Executive Pulse: 5 cards to keep your eyes on.","","Project Group Load","PROJECT GROUP LOAD
+Measures the number of projects by group over the projects' entry date. Rationalize project workloads with the resources available to each project group.","1455331470","Project","93fc5040-b13e-415d-ba1e-09869e67a72a"
+"Workfront QuickStart (2)","Tasks: Is your team on track to completing their desired tasks?","","Estimated Task Completion","ESTIMATED TASK COMPLETION
+Displays the number of tasks estimated to reach completion in the specified period. Gauge the effectiveness of your project planning by understanding completion timing.","136408160","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"
+"Workfront QuickStart (2)","Projects: How is your organization doing with ongoing projects?","","Future Projects","FUTURE PROJECTS
+Shows the conditions of projects expected to be completed in the near future. Assess whether or not team workloads are going to be balanced in the months to come and if goals will be within reach.
+","2022083635","Project","93fc5040-b13e-415d-ba1e-09869e67a72a"
+"Workfront QuickStart (2)","Executive Pulse: 5 cards to keep your eyes on.","","Top Unassigned Tasks","TOP UNASSIGNED TASKS
+Displays the top 20 projects by their number of unassigned tasks. Identify high priority projects and adjust project resources to reduce the backlog of unassigned tasks.","686405933","Task","426df22f-137a-4b83-b594-4dff7cfb9df9"

@@ -1,0 +1,27 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Square QuickStart (1)","Executive Pulse: 5 Square metrics you need to know.","","Orders Trend","ORDERS TREND
+Contrasts the number of orders made in each month before and after the current date (i.e. the 9th of the month). Find cycles of buying behavior and use the information to plan your marketing activity.","1430570513","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Items: What items do my customers want?","","Sales by Category","SALES BY CATEGORY
+Displays the item categories that have brought in the most revenue. View the overall category profile to determine high and low performing areas of inventory.","234990718","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Executive Pulse: 5 Square metrics you need to know.","","Popular Items","POPULAR ITEMS
+Shows the most popular items sold. Consider focusing marketing efforts on items that are the best sellers and that draw customers in.","2060316146","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Items: What items do my customers want?","","Bottom 10 SKUs","BOTTOM 10 SKUS
+The 10 least productive SKUs based on total revenue. Evaluate the potential effects of removing these SKUs from your inventory.","1407830785","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Sales: How are my sales performing?","","Refunds","REFUNDS
+Shows the number of refunds given by period. Address common reasons for refunding customers and take measures to increase customer satisfaction.  ","1734758227","Refunds","f4e4f81d-601d-408a-b25d-903ae8cf9f91"
+"Square QuickStart (1)","Sales: How are my sales performing?","","Transaction Revenue","TRANSACTION REVENUE
+Measures the level of transactions and revenue in each period. Contrast the growth in transactions to the amount of revenue per transaction. Brainstorm ways to increase the revenue per transaction.","1153593067","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Sales: How are my sales performing?","","Salesperson Tips","SALESPERSON TIPS
+Measures the tips received during a given period. Use this information to determine the quality of service customers enjoy.","213108622","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Items: What items do my customers want?","","Top 10 SKUs","TOP 10 SKUS
+Displays the 10 most productive SKUs based on total revenue. Gain insight into the performance of your SKUs and use it to guide your marketing decisions. ","1800624838","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Items: What items do my customers want?","","Item Price List","ITEM PRICE LIST
+Lists all active items in Square and the price associated with each product. See an overview of the company inventory and prices to help guide a competitive analysis.","1700979799","Items","07c2f007-fa19-4e03-a03d-41c02aef1375"
+"Square QuickStart (1)","Executive Pulse: 5 Square metrics you need to know.","","Bank Deposits","BANK DEPOSITS
+Displays the amount of money sent from Square to the bank. Ensure revenue is being deposited into the correct accounts.","1924325247","Settlements","3fb8da3c-033d-4211-8ec4-e7ff4b0a174b"
+"Square QuickStart (1)","Sales: How are my sales performing?","","Square Fees","SQUARE FEES
+Shows the fees paid for using Square in a given period. Monitor the dollar amount of sales due to Square for the use of their product.","1313689200","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Executive Pulse: 5 Square metrics you need to know.","","Items by Category","ITEMS BY CATEGORY
+Displays the total price of all items sold in a particular category in a given period. Consider dropping items in low performing categories.","1347354246","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"
+"Square QuickStart (1)","Executive Pulse: 5 Square metrics you need to know.","","Cost Breakdown","COST BREAKDOWN
+Shows the total money received and spent in the period. Evaluate the total sales amount of items and all associated costs to gain a perspective on revenue.","1668304805","Payments","ca1efbe5-9773-47b0-a78c-b17a1c8a68c1"

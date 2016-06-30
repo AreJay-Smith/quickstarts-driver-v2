@@ -1,31 +1,31 @@
 "connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
-"Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","Echosign Users","ECHOSIGN USERS
-Keep track of the people who currently have access to the system.  Audit users and remove those that should not have access.","364836185","Users in Account","2abbb26a-fa61-485b-9ceb-372e4869d0d8"
-"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Participant Status","PARTICIPANT STATUS
-Tracks the number of documents by status in the specified period. Identify trends in envelope completion to gauge content effectiveness.","1080256920","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
-"Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","Top Senders","TOP SENDERS
-Identifies the users who send the most documents. Analyze usage to pinpoint best practices.","506244554","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
-"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","User Groups","USER GROUPS
-Identifies user groups by membership. If groups become too large to manage, consider breaking them into smaller sub-sets.","972602895","Users in Account","2abbb26a-fa61-485b-9ceb-372e4869d0d8"
-"Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","User Documents","USER DOCUMENTS
-Displays the document statuses of each user. Monitor each user to make sure documents are progressing and expected.","822023903","My Documents","88c1484e-0291-4b52-a0bc-55b985e49506"
-"Adobe EchoSign QuickStart (1)","Participants: Gain perspective into how the system is being used.","","Participant Company","PARTICIPANT COMPANY
-Measures the number of participants per company. Identify companies with heavy participation and find efficient ways to engage with their employees.","398875350","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
-"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Document Status","DOCUMENT STATUS 
-Shows document status by completion stage. Minimize declined envelopes by creating more engaging content.","30372087","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
 "Adobe EchoSign QuickStart (1)","Participants: Gain perspective into how the system is being used.","","Days to Signature","DAYS TO SIGNATURE
 Tracks the average number of days before a document is signed. Reduce signature intervals by creating more engaging content.","1480150261","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
 "Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","ESignable Documents","ESIGNABLE DOCUMENTS
 Measures the number of ESignable documents by their current status. Compare signature rates of ESign documents to those of non-Sign documents.","1832949338","Document Info","049c37f7-9dfd-4d96-a669-942502292737"
-"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Participant Signatures","PARTICIPANT SIGNATURES
-Tracks the number of participant signatures over the specified period. Compare signatures with total participants to find changes in overall participation rates.","1756065301","Document Info","049c37f7-9dfd-4d96-a669-942502292737"
-"Adobe EchoSign QuickStart (1)","Participants: Gain perspective into how the system is being used.","","Document Participation","DOCUMENT PARTICIPATION
-Compares the number of participant signatures to the total number of participants. Identify successful components of documents with high participation rates and replicate them across the rest of your documents.","94948762","Document Info","049c37f7-9dfd-4d96-a669-942502292737"
+"Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","Top Senders","TOP SENDERS
+Identifies the users who send the most documents. Analyze usage to pinpoint best practices.","506244554","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
+"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","User Groups","USER GROUPS
+Identifies user groups by membership. If groups become too large to manage, consider breaking them into smaller sub-sets.","972602895","Users in Account","2abbb26a-fa61-485b-9ceb-372e4869d0d8"
+"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Participant Status","PARTICIPANT STATUS
+Tracks the number of documents by status in the specified period. Identify trends in envelope completion to gauge content effectiveness.","1080256920","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
 "Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Document Signatures","DOCUMENT SIGNATURES
 Displays the top 10 documents that have received the most signatures. Identify popular documents and replicate the components of their success.","389589548","Document Info","049c37f7-9dfd-4d96-a669-942502292737"
+"Adobe EchoSign QuickStart (1)","Participants: Gain perspective into how the system is being used.","","Document Participation","DOCUMENT PARTICIPATION
+Compares the number of participant signatures to the total number of participants. Identify successful components of documents with high participation rates and replicate them across the rest of your documents.","94948762","Document Info","049c37f7-9dfd-4d96-a669-942502292737"
+"Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","Echosign Users","ECHOSIGN USERS
+Keep track of the people who currently have access to the system.  Audit users and remove those that should not have access.","364836185","Users in Account","2abbb26a-fa61-485b-9ceb-372e4869d0d8"
 "Adobe EchoSign QuickStart (1)","Participants: Gain perspective into how the system is being used.","","Participant Rate","PARTICIPANT RATE
 Compares the participation rate with the number of participants over the specified period. Consider investigating the causes of spikes or drops in participation rates.
 
 Participation Rate = Signatures / Participants","766753605","Document Info","049c37f7-9dfd-4d96-a669-942502292737"
+"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Document Status","DOCUMENT STATUS 
+Shows document status by completion stage. Minimize declined envelopes by creating more engaging content.","30372087","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
+"Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","User Documents","USER DOCUMENTS
+Displays the document statuses of each user. Monitor each user to make sure documents are progressing and expected.","822023903","My Documents","88c1484e-0291-4b52-a0bc-55b985e49506"
 "Adobe EchoSign QuickStart (1)","Documents & Users: Monitor system usage and users over time.","","Document Status","DOCUMENT STATUS
 Measures the number of documents in each stage of the completion status. Minimize recalled and waiting documents by creating more engaging content.","1905567812","My Documents","88c1484e-0291-4b52-a0bc-55b985e49506"
+"Adobe EchoSign QuickStart (1)","Participants: Gain perspective into how the system is being used.","","Participant Company","PARTICIPANT COMPANY
+Measures the number of participants per company. Identify companies with heavy participation and find efficient ways to engage with their employees.","398875350","Participants","0ab29e21-5c24-478b-b582-4cf2e08d1663"
+"Adobe EchoSign QuickStart (1)","Executive Pulse: 6 Metrics to check daily.","","Participant Signatures","PARTICIPANT SIGNATURES
+Tracks the number of participant signatures over the specified period. Compare signatures with total participants to find changes in overall participation rates.","1756065301","Document Info","049c37f7-9dfd-4d96-a669-942502292737"

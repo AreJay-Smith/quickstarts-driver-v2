@@ -1,0 +1,38 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Dropbox for Business QuickStart (1)","Team: Expand the reach of Dropbox within your organization.","","Team Licenses","TEAM LICENSES
+Measures the percentage of Dropbox for Business licenses that are being utilized. Stay ahead of license demand by closely monitoring team growth.
+","55719418","Membership","7f6c06ee-353d-42a6-b96c-6fc47bfd42a2"
+"Dropbox for Business QuickStart (1)","Executive Pulse: 4 cards to check every morning.","","Recent Activity","RECENT ACTIVITY
+Measures the number of events by type over time. Identify if your organization is effectively using Dropbox by looking at what proportion of activities are collaboration-focused versus simple logins.","2010039689","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","User Adoption: Increase employee activity in Dropbox to increase collaboration.","","Activity Categories","ACTIVITY CATEGORIES
+Groups the number of activities by the activity type. Identify if your organization is effectively using Dropbox by looking at what proportion of activities are collaboration-focused versus simple logins.","514834259","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","Team: Expand the reach of Dropbox within your organization.","","Team Size","TEAM SIZE
+Displays the current number of users and available licenses. Track team growth and purchase more licenses as necessary.","1029197438","Membership","7f6c06ee-353d-42a6-b96c-6fc47bfd42a2"
+"Dropbox for Business QuickStart (1)","File Storage: Is your company making the most out of its investment in Dropbox?","","Items Modified","ITEMS MODIFIED
+Displays the number of times a file or folder was modified. Gauge how frequently people are revisiting and collaborating on existing items.","258109100","User Activity","bb27e4ed-f4ce-49c3-b4d9-aced54f45bf9"
+"Dropbox for Business QuickStart (1)","File Storage: Is your company making the most out of its investment in Dropbox?","","Link Shares Trend","LINK SHARES TREND
+Displays the number of shared links generated and the number of times those links were viewed. Track share-to-view ratios to maximize the level of collaboration in your organization.","1781744853","User Activity","bb27e4ed-f4ce-49c3-b4d9-aced54f45bf9"
+"Dropbox for Business QuickStart (1)","File Storage: Is your company making the most out of its investment in Dropbox?","","Link Share Security","LINK SHARE SECURITY
+Shows the number of links that have been shared with people who are not members of your team. Set alerts to notify you if this number increases in order to keep content protected.","1098433619","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","File Storage: Is your company making the most out of its investment in Dropbox?","","Storage Used","STORAGE USED
+Measures the total amount of shared and private storage space being used over time. Measure your  storage usage against performance goals or contracted limits.
+","1304521081","Storage Usage","afc61e59-ddcc-4158-bb5c-a23bde4657e9"
+"Dropbox for Business QuickStart (1)","User Adoption: Increase employee activity in Dropbox to increase collaboration.","","Bottom 10 Users","BOTTOM 10 USERS
+Shows the bottom 10 users by the number of activities performed. Identify and understand how heavy users are utilizing Dropbox within your organization.
+","76803978","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","Executive Pulse: 4 cards to check every morning.","","Failed Login Attempts","FAILED LOGIN ATTEMPTS
+Shows the number of people who have tried to login to the company Dropbox account and failed. Reach out to individuals to assure that there are no potential security breaches. ","2131420941","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","Team: Expand the reach of Dropbox within your organization.","","Team Reference","TEAM REFERENCE
+Displays basic information about each member of your team. Use this table as a quick reference for checking team members' contact information, security profile and activity status.","1293848952","Members","5987b9ff-adde-4c7e-ab45-71d40e60686a"
+"Dropbox for Business QuickStart (1)","User Adoption: Increase employee activity in Dropbox to increase collaboration.","","Event Activity","EVENT ACTIVITY
+Measures the number of events by type over time. Identify if your organization is effectively using Dropbox by looking at what proportion of activities are collaboration-focused versus simple logins.","1133976716","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","User Adoption: Increase employee activity in Dropbox to increase collaboration.","","Top 10 Users","TOP 10 USERS
+Ranks the top 10 users by the number of activities performed. Identify and understand how heavy users are utilizing Dropbox within your organization.
+","1617465682","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","Executive Pulse: 4 cards to check every morning.","","Storage Usage and Forecast","STORAGE USAGE AND FORECAST
+Tracks the total amount of shared and private storage space being used over time. Also forecasts usage for the current period. Measure your storage usage against performance goals or contracted limits.
+","2060120853","Storage Usage","afc61e59-ddcc-4158-bb5c-a23bde4657e9"
+"Dropbox for Business QuickStart (1)","Executive Pulse: 4 cards to check every morning.","","Recently Active Users","RECENTLY ACTIVE USERS
+Displays the most recently active users. Ensure a robust community by tracking recent usage.","200839410","Audit Log","b6ba1f7e-42c7-49a8-aa90-f73b5b32aa91"
+"Dropbox for Business QuickStart (1)","Team: Expand the reach of Dropbox within your organization.","","Team Membership","TEAM MEMBERSHIP
+Compares the number of members on your team against available licenses. Stay ahead of license demand by closely monitoring team growth.","394463501","Membership","7f6c06ee-353d-42a6-b96c-6fc47bfd42a2"

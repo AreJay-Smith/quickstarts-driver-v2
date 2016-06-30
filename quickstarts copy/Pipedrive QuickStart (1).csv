@@ -1,0 +1,43 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Pipedrive QuickStart (1)","Sales Reps: Recognize, reward and position your top talent for top performance.","","Top 10 Closers","TOP 10 CLOSERS
+Ranks the top 10 performing sales reps by number of deals closed. Reward top performers and leverage their experience closing deals to help jumpstart stalled opportunities. Consider refocusing top closers to higher value deals to increase their revenue impact.","512083862","Persons","0d80326b-59d7-4c64-9d17-6730b9741624"
+"Pipedrive QuickStart (1)","Leads and Opportunities: See where most of your prospects are coming from.","","Open Opportunities","OPEN OPPORTUNITIES
+Tracks the number of open opportunities by pipeline stage in the specified period. Too many lagging opportunities can indicate an ineffective process. Consider prioritizing opportunities in the later stages to convert in the current period.","1250366242","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Executive Pulse: 4 metrics you should check every morning.","","Bottom Sales Rep Closers","BOTTOM SALES REP CLOSERS
+Ranks the 10 bottom performing sales reps by closed opportunities. Follow up with the reps to determine if they need additional training or other help to improve performance. ","900557875","Persons","0d80326b-59d7-4c64-9d17-6730b9741624"
+"Pipedrive QuickStart (1)","Sales Reps: Recognize, reward and position your top talent for top performance.","","Opportunities by Rep","OPPORTUNITIES BY REP
+Ranks sales reps by the number of open opportunities.   Combine with opportunity stages and aging to identify reps who aren't managing their opportunity pipeline. Clean out stale opportunities and reassign quality opportunities that have been neglected to increase close rates.","37941827","Persons","0d80326b-59d7-4c64-9d17-6730b9741624"
+"Pipedrive QuickStart (1)","Leads and Opportunities: See where most of your prospects are coming from.","","Oldest Opportunities","OLDEST OPPORTUNITIES
+Displays your 10 oldest opportunities by their title. Consider closing stale opportunities or pushing them to resolution.","1262322745","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Sales: What you can do today to exceed your sales goals.","","Sales Funnel","SALES FUNNEL
+Shows total open opportunity value by stage. Analyze deals in each stage of the pipeline for quantity and quality.","1413853364","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Leads and Opportunities: See where most of your prospects are coming from.","","Close Rate","CLOSE RATE
+Compares the close rate against the total leads and deals closed in the specified period. These metrics direct your focus so you can increase deals while maintaining a high close rate.
+
+Close Rate = Deals Closed / Leads","1959565312","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Executive Pulse: 4 metrics you should check every morning.","","Top Salespeople","TOP SALESPEOPLE
+Displays the top 10 salespeople by their win rate. Identify leading performers and understand the secrets to their success.
+
+Win Rate = Deals Won / Deals Closed","414153986","Persons","0d80326b-59d7-4c64-9d17-6730b9741624"
+"Pipedrive QuickStart (1)","Sales: What you can do today to exceed your sales goals.","","Win Rate","WIN RATE
+Compares the win rate against the number of deals won and the number of deals lost over the specified period. Consider improving declining win rates by addressing common customer concerns and modifying sales rep performance incentives. Long-term declines can indicate problems with lead source and opportunity qualifying.
+
+Win Rate = Wins / Deals Closed","2097287556","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Sales Reps: Recognize, reward and position your top talent for top performance.","","Bottom Salespeople","BOTTOM SALESPEOPLE
+Ranks the 10 lowest performing sales reps by their loss rate. Follow up with the reps to determine if they need additional training or other help to improve performance.
+
+Loss Rate = Deals Lost / Deals Closed","982592795","Persons","0d80326b-59d7-4c64-9d17-6730b9741624"
+"Pipedrive QuickStart (1)","Executive Pulse: 4 metrics you should check every morning.","","Sales Pipeline","SALES PIPELINE
+Shows total open opportunity value by stage. Analyze deals in each stage of the pipeline for quantity and quality.","1715360182","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Sales Reps: Recognize, reward and position your top talent for top performance.","","Org Wins","ORG WINS
+Displays the number of won deals each organization has earned over the specified period. Identify the best practices of over-performing organizations and replicate their successes across your company.","605532477","Persons","0d80326b-59d7-4c64-9d17-6730b9741624"
+"Pipedrive QuickStart (1)","Leads and Opportunities: See where most of your prospects are coming from.","","Leads, Wins and Losses","LEADS, WINS AND LOSSES
+Shows the number of leads as a total of open, won and lost opportunities over the specified period. Identify trends in won deals to identify sales best practices.","1349022809","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Sales: What you can do today to exceed your sales goals.","","Sales Trend","SALES TREND
+Tracks total sales and average sale size over the specified period. Increase revenue by keeping the sales team focused on target deal size. Combine this data with time spent per deal to prioritize higher value deals over smaller, time-consuming deals.
+
+Average Sale Size = Total Sales Revenue / Number of Sales","1135703513","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Executive Pulse: 4 metrics you should check every morning.","","Projected Sales","PROJECTED SALES
+Shows the amount of sales revenue over time and forecasts revenue for this period. Compare forecasts to your goals and make adjustments, as necessary.","647339632","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"
+"Pipedrive QuickStart (1)","Sales: What you can do today to exceed your sales goals.","","Average Sales Cycle","AVERAGE SALES CYCLE
+Measures the average sales cycle length in days for deals closed. Decrease average sales cycle by training sales staff on messaging, positioning and on guiding prospects through a clear decisioning process.","71981544","Deals","393a899f-dafa-41a3-8e04-0ad3eacbe09f"

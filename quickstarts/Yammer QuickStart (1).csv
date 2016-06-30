@@ -1,0 +1,31 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Yammer QuickStart (1)","Executive Pulse: 5 metrics to keep your eye on.","","Message Device Usage","MESSAGE DEVICE USAGE
+Displays messages based on the devices used. Monitor message input methods and take actions to stimulate user activity and improve messaging efficiency.","375366694","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Communication: How well are employees communicating and collaborating?","","Direct Messages","DIRECT MESSAGES
+Tracks the quantity of direct messages over time. Identify causes for increases in user activity and use findings to stimulate usage.","95657295","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Executive Pulse: 5 metrics to keep your eye on.","","Message Activity","MESSAGE ACTIVITY
+Tracks the messages posted to the community over time. Identify root causes for increases and decreases in overall participation to improve user activity.","1543186180","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Communication: How well are employees communicating and collaborating?","","Top 10 Liked Messages","TOP 10 LIKED MESSAGES
+Shows the most liked messages. Pinpoint key messages to gain insights into better collaboration and communication.","1310869897","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Executive Pulse: 5 metrics to keep your eye on.","","Total Users","TOTAL USERS
+Displays a running total of users over time. Track the amount of users in the community and identify strategies for increasing overall usage.","1005600457","Users","0d05eee9-78e5-40d7-9402-6e116dec5b1f"
+"Yammer QuickStart (1)","Users: Who is involved in collaboration?","","Top 10 Active Users","TOP 10 ACTIVE USERS
+Shows top users based on quantity of messages. Identify key active users to define best practices for increasing overall user activity.","1749228796","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Communication: How well are employees communicating and collaborating?","","Group Messages","GROUP MESSAGES
+Tracks the quantity of group messages over time. Identify causes for increases in user activity and use findings to stimulate usage.","872524804","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Users: Who is involved in collaboration?","","User Job Titles","USER JOB TITLES
+Organizes users based on their job titles. View which users are communicating and take actions to stimulate user activity and increase overall collaboration.","972032951","Users","0d05eee9-78e5-40d7-9402-6e116dec5b1f"
+"Yammer QuickStart (1)","Users: Who is involved in collaboration?","","Users by Location","USERS BY LOCATION
+Shows how many users are in each location. View locations from which users are communicating and take actions to stimulate user activity and increase overall collaboration.","745220170","Users","0d05eee9-78e5-40d7-9402-6e116dec5b1f"
+"Yammer QuickStart (1)","Users: Who is involved in collaboration?","","All Users","ALL USERS
+Displays all users in table format. Use this to access, filter, and group all user data to view underlying causes for increases and decreases in usage and overall communication and collaboration.","1292950478","Users","0d05eee9-78e5-40d7-9402-6e116dec5b1f"
+"Yammer QuickStart (1)","Communication: How well are employees communicating and collaborating?","","Messages with Attachments","MESSAGES WITH ATTACHMENTS
+Displays messages with attachments over time. Identify spikes and drops in message quantity to determine points of high and low collaboration and take action to improve overall communication.","782399857","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Communication: How well are employees communicating and collaborating?","","All Messages","ALL MESSAGES
+Displays all user messages in table format. Use this to access, filter, and group all message data to view underlying causes for increases and decreases in usage and overall communication and collaboration.","1042034638","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Communication: How well are employees communicating and collaborating?","","Active Message Types","ACTIVE MESSAGE TYPES
+Displays messages based on their relative type. Monitor message input and take actions to stimulate user activity and increase content quality.","691091051","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"
+"Yammer QuickStart (1)","Executive Pulse: 5 metrics to keep your eye on.","","Seen Notifications","SEEN NOTIFICATIONS
+Shows the percentage of notifications that have been viewed. Use this to track user activity and take actions to improve communication and collaboration.","465765439","Notifications","38493050-87cf-4e95-941b-4a739578cca8"
+"Yammer QuickStart (1)","Executive Pulse: 5 metrics to keep your eye on.","","Hourly Message Activity","HOURLY MESSAGE ACTIVITY
+Displays the number of messages that are sent by hour of the day during the selected period. Consider using this data to track usage and pinpoint the most effective times to send messages.","1110741635","All Messages","7f211db3-b574-4687-9ac5-4bf7d2b13c26"

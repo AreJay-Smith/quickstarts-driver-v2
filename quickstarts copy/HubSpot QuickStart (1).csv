@@ -1,0 +1,61 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Click-Through Rate","CLICK-THROUGH RATE
+Compares the click-through rate (CTR) to the number of clicks over the specified time period. Consider spreading out total send volume to maximize customer mindshare and reduce email fatigue.
+
+Click-Through Rate (CTR) = Clicks / Deliveries","1551262727","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Top 20 Emails by Click-Through Rate","TOP 20 EMAILS BY CLICK-THROUGH RATE
+Identifies the 20 best-performing marketing emails according to click-through rate. Take action to change email content or link location to maximize email CTR.","517419665","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Executive Pulse: What's happening right now?","","Bounce Rate","BOUNCE RATE
+Compares the bounce rate to the total number of bounces over the specified time period. Many ISPs use a sender’s bounce rate to determine whether any given message should be considered spam. Identify email lists whose bounce rates and volume are high to discover which distribution lists need maintenance.
+
+Bounce Rate = Total Bounces / Sends","1152734033","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Executive Pulse: What's happening right now?","","Most Opened","MOST OPENED
+Tracks the most-opened recent emails. Get an idea of what messages are permeating through your target audience today.","924409814","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Most Clicked Emails","MOST CLICKED EMAILS
+Ranks the top 10 emails by number of clicks. Understand what emails have elicited the most engagement from your target audience. Identify the successful elements from these emails to improve future email performance.
+
+""Average Clicks""  includes only emails that have had one or more clicks. Those with zero clicks have been excluded.","1653513922","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Visitors by Country","VISITORS BY COUNTRY
+Shows where all visits have originated from by country. Consider developing marketing plans for growth in strategic countries.","1939854964","Prospects","f5c291df-e896-48ea-a26d-a14d0ef024bd"
+"HubSpot QuickStart (1)","Sends and Deliveries: Grow your email list without hurting your deliverability.","","Sends","SENDS
+Displays the number of emails that were sent during the selected period (does not represent the total number of emails that were successfully delivered). Track the email volume outflow.","1052342603","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Executive Pulse: What's happening right now?","","Email Performance","EMAIL PERFORMANCE
+Gives a quick overview of recent email performance. Catch anomalies in the data and react accordingly. For further detail, refer to cards in the collections below.","432349034","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Executive Pulse: What's happening right now?","","Content Publication","CONTENT PUBLICATION
+Displays the days when content was published. Understand at a glance the pace at which material is being pushed to your subscribers.","1262363448","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Most Opened Emails","MOST OPENED EMAILS
+Ranks the top 20 emails by number of opens. Visualize what company messages have been seen the most by your target audience and consider if these most-prevalent messages are reflective of your messaging strategies.
+
+""Average Opens""  in the summary number includes only emails that have had one or more opens. Those with zero opens have been excluded.","1821818888","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Sends and Deliveries: Grow your email list without hurting your deliverability.","","Leads by State","LEADS BY STATE
+Indicates the number of leads in each state in the US. Use this to identify marketing effectiveness in different areas and to increase or decrease marketing efforts in target geographic areas.","1886851374","Prospects","f5c291df-e896-48ea-a26d-a14d0ef024bd"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Top 20 Campaigns","TOP 20 CAMPAIGNS
+Shows the 20 best-performing campaigns ranked by the total number of sends. Identify best email content practices, including subject line, length of emails, etc., for higher open rates.","914559776","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Executive Pulse: What's happening right now?","","CTOR Performance","CLICK-TO-OPEN RATE PERFORMANCE
+Tracks the messages that appear to be resonating most with your audience. Identify elements that are contributing to high-performance and resolve issues for low-performing emails accordingly.
+
+Click-to-Open Rate (CTOR) = Clicks / Opens","2044857543","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Sends and Deliveries: Grow your email list without hurting your deliverability.","","Unsubscribe Rate","UNSUBSCRIBE RATE
+Compares the unsubscribe rate to the number of unsubscribes over the specified time period. Gauge the effectiveness of your emails. High unsubscribe rates could indicate irrelevant content or poor segmentation targeting.
+
+Unsubscribe Rate = Unsubscribes / Deliveries","1307494442","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Executive Pulse: What's happening right now?","","Top Keywords by Visits","TOP KEYWORDS BY VISITS
+Displays what search terms, designated by the user, have resulted in the most web-page visits. Identify what search terms most often result in someone landing on the company’s web page. Consider replacing less effective search terms to improve website traffic.","982853379","Keywords","47e45c7e-2db6-4771-81d7-0d287a7ab1f5"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Page Views by State","PAGE VIEWS BY STATE
+Tracks the number of page views broken down by state. Focus marketing efforts on locations that can produce higher yields and ROI while reaching out to underperforming target markets.","610656583","Prospects","f5c291df-e896-48ea-a26d-a14d0ef024bd"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Open Rate","OPEN RATE
+Compares the open rate to the total number of opens over the specified time period. If open rates are lower than expected, consider A/B testing variations in messaging to elicit more opens.
+
+Open Rate = Opens / Deliveries","1526273346","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Engagement: Increase your audience's response to your messaging.","","Click-to-Open Rate","CLICK-TO-OPEN RATE
+Compares the click-to-open rate (CTOR) to the number of clicks over the specified time period. Consider using this information to gauge the effectiveness of an email’s messaging in generating leads. Adjust ad content appropriately.
+
+Click-to-Open Rate (CTOR) = Clicks / Opens","1105683708","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Sends and Deliveries: Grow your email list without hurting your deliverability.","","Delivery Rate","DELIVERY RATE
+Compares the delivery rate to the number of deliveries over the specified time period.  Watch for dips in the delivery rate in conjunction with spikes in send volume. Prevent low delivery rates from adversely affecting the company’s sender score by pruning email lists as necessary.
+
+Delivery Rate = Deliveries / Sends","1550232583","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"
+"HubSpot QuickStart (1)","Sends and Deliveries: Grow your email list without hurting your deliverability.","","Unsubscribes","UNSUBSCRIBES
+Displays the emails responsible for the most unsubscribes. Determine what types of content is leading people to unsubscribe and determine if certain emails need to be discontinued or revised.
+
+Unsubscribe Rate = Unsubscribes / Deliveries","266617167","Emails","6babd944-6bda-4915-9fe0-b3f0ae13ca9d"

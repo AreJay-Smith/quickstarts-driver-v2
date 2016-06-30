@@ -1,0 +1,28 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Hours Asleep","HOURS ASLEEP
+Shows the total number of hours you are sleeping each night over time. Monitor your hours of sleep and compare against your goals. Make adjustments as necessary. ","161354324","Sleep","3e925b18-fdc5-4dc6-8d7e-6510706b7c5d"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Most Healthy Foods Consumed","MOST HEALTHY FOODS CONSUMED
+Shows all the foods you have consumed during the period broken down by carbs, calories and protein. Bubble size represents the protein intake.","1798952149","Foods","52748b64-f6ec-44ec-a453-1e9e68088db1"
+"Fitbit QuickStart (1)","Executive Pulse: How active am I today?","","Steps and Forecast","STEPS AND FORECAST
+Shows the total number of steps taken by day. Monitor performance against your personal goals to track progress. ","355911816","User Activities Steps","6853ec9a-4ce0-474f-ae51-30132bbff23b"
+"Fitbit QuickStart (1)","Executive Pulse: How active am I today?","","Steps Today",,"2093060343","User Activities Steps","6853ec9a-4ce0-474f-ae51-30132bbff23b"
+"Fitbit QuickStart (1)","Activity Breakdown: What days am I most active and where can I improve?","","Average Day Performance","AVERAGE DAY PERFORMANCE
+Shows on average what days you are most active. Identify areas where you can make improvement and be more active. ","1319499144","User Activities Steps","6853ec9a-4ce0-474f-ae51-30132bbff23b"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Caloric Intake","CALORIC INTAKE
+Shows the total amount of calories you are consuming over time. Identify those foods that are consistent with your dietary goals and the foods that may be leading to spikes in your caloric intake.","514285270","Foods","52748b64-f6ec-44ec-a453-1e9e68088db1"
+"Fitbit QuickStart (1)","Activity Breakdown: What days am I most active and where can I improve?","","Steps Week over Week","STEPS WEEK OVER WEEK
+Shows the week over week breakdown for the total number of steps taken by day. Identify the days where progress can be made and set goals to be more active. ","1414047705","User Activities Steps","6853ec9a-4ce0-474f-ae51-30132bbff23b"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Weight",,"789533923","Weight","cd24dbe6-ebe4-4493-8627-3db679a3728b"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Badges Earned",,"1406280371","Badges","dab816ea-d1ee-4cf0-b3c1-ef66c2e73179"
+"Fitbit QuickStart (1)","Executive Pulse: How active am I today?","","Calories Burned",,"1682888234","Calories By Day","003ef482-0fa3-4563-994c-87fdaddd5a3f"
+"Fitbit QuickStart (1)","Executive Pulse: How active am I today?","","Calories Trend","CALORIES TREND
+Shows the trend of calories burned for all activities you have logged during the period. Monitor performance against your personal goals to track progress. ","1474499901","Calories By Day","003ef482-0fa3-4563-994c-87fdaddd5a3f"
+"Fitbit QuickStart (1)","Activity Breakdown: What days am I most active and where can I improve?","","Most Active Days","MOST ACTIVE DAYS
+Shows the overall step count for each day. Identify areas for improvement and times when you can be more active. ","411062148","User Activities Steps","6853ec9a-4ce0-474f-ae51-30132bbff23b"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Protein Intake","PROTEIN INTAKE
+Shows the total grams of protein you are consuming over time. Set goals to eat those foods with optimal protein levels to ensure proper health. ","280982679","Foods","52748b64-f6ec-44ec-a453-1e9e68088db1"
+"Fitbit QuickStart (1)","Health Breakdown: Am I eating right? How is my health?","","Hours Slept",,"1575790450","Sleep","3e925b18-fdc5-4dc6-8d7e-6510706b7c5d"
+"Fitbit QuickStart (1)","Activity Breakdown: What days am I most active and where can I improve?","","Avg Calories per Activity","AVERAGE CALORIES PER ACTIVITY
+Shows the number of times you have performed each activity and the number of calories burned on average. Push yourself to burn more calories per activity. ","1121646146","User Activities","eeaad784-dc49-43be-85f1-14a274c4ec8c"
+"Fitbit QuickStart (1)","Executive Pulse: How active am I today?","","Distance Trend","DISTANCE TREND
+Shows the total distance you have walked or exercised. Monitor performance against your personal goals to track progress. ","209840474","Distance by Day","4509b475-bac1-4ffa-bbe6-a4bd8780d944"

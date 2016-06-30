@@ -1,0 +1,34 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Pardot QuickStart (1)","Opportunities and Sales: What you can do today to hit your sales goals.","","Average Sales Cycle","AVERAGE SALES CYCLE
+Measures the average sales cycle length in days for deals closed. Decrease average sales cycle by training sales staff on messaging, positioning and on guiding prospects through a clear decisioning process.","491931792","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Visitors: Discover how your customers are interacting with your website.","","Page Engagement",,"693009708","Visits","bfb05bd5-9564-4941-b4f3-288779c15e3b"
+"Pardot QuickStart (1)","Prospects: See where most of your prospects are coming from.","","Top Prospecting Countries",,"2095643797","Prospects","2fe9f2af-2617-4e55-b984-88557880e30b"
+"Pardot QuickStart (1)","Opportunities and Sales: What you can do today to hit your sales goals.","","Top 10 Wins","TOP WINS
+Ranks the top 10 performing opportunities by won revenue. Increase revenue growth by focusing on higher value deals.
+","1846758252","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Visitors: Discover how your customers are interacting with your website.","","Visitors",,"1656451828","Visits","bfb05bd5-9564-4941-b4f3-288779c15e3b"
+"Pardot QuickStart (1)","Executive Pulse: 4 metrics you need to track daily.","","Sales and Forecast","SALES AND FORECAST
+Shows the amount of sales revenue over the specified period. Compare forecasts to your goals and adjust them accordingly.","1448990008","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Opportunities and Sales: What you can do today to hit your sales goals.","","Sales Trend","SALES TREND
+Tracks total sales and average sale size over the specified period. Increase revenue by keeping the sales team focused on target deal size. Combine this data with time spent per deal to prioritize higher value deals over smaller but time-consuming deals.
+
+Average Sale Size = Total Sales Revenue / Number of Sales","802930987","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Opportunities and Sales: What you can do today to hit your sales goals.","","Open Opportunities","OPEN OPPORTUNITIES
+Tracks the number of open opportunities by pipeline stage in the specified period. Opportunities in the later stages should be prioritized to convert in the current period. Too many lagging opportunities can indicate an ineffective process. ","335993238","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Visitors: Discover how your customers are interacting with your website.","","Page View Sources",,"1090381255","Visits","bfb05bd5-9564-4941-b4f3-288779c15e3b"
+"Pardot QuickStart (1)","Opportunities and Sales: What you can do today to hit your sales goals.","","Won vs Lost Deals","WON VS LOST DEALS
+Measures the number of closed deals that were won compared to the number of closed deals that were lost by selected period. Monitor the sales trend and identify trends that may be adversely affecting sales.","613678866","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Executive Pulse: 4 metrics you need to track daily.","","Visitor Behavior",,"1614371220","Visits","bfb05bd5-9564-4941-b4f3-288779c15e3b"
+"Pardot QuickStart (1)","Executive Pulse: 4 metrics you need to track daily.","","Lead Generation","LEAD GENERATION
+Measures the total number of leads generated for each prospect source. Reallocate resources to grow strategic sources or take advantage of highly profitable prospects.","2117583970","Prospects","2fe9f2af-2617-4e55-b984-88557880e30b"
+"Pardot QuickStart (1)","Prospects: See where most of your prospects are coming from.","","Prospect Sources",,"1343980549","Prospects","2fe9f2af-2617-4e55-b984-88557880e30b"
+"Pardot QuickStart (1)","Executive Pulse: 4 metrics you need to track daily.","","Sales Funnel","SALES FUNNEL
+Shows total open opportunity value by stage. Analyze deals in each stage of the pipeline for amount and quality. Maintain a healthy pipeline by focusing on shrinking stages. To achieve current period growth, focus on high probability sales in the later stages of the pipeline.","1260736425","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Opportunities and Sales: What you can do today to hit your sales goals.","","Win Rate","WIN RATE
+Compares the win rate against the number of deals won and the number of oppurtunities over the specified period. Attack declining win rates with targeted objection handling and performance incentives. Long-term declines can indicate problems with lead source and opportunity qualifying.
+
+Win Rate = Wins / Opportunities","1149984141","Opportunities","a0f1f63a-b5bb-4af8-9011-ffd1e8e8579a"
+"Pardot QuickStart (1)","Prospects: See where most of your prospects are coming from.","","Prospect Activity","PROSPECT ACTIVITY
+Measures the number of prospects by activity for the specified period. Predict future prospect volume and determine where you can improve lead quality.
+","784838371","Prospects","2fe9f2af-2617-4e55-b984-88557880e30b"
+"Pardot QuickStart (1)","Prospects: See where most of your prospects are coming from.","","Top Prospecting States",,"1692064792","Prospects","2fe9f2af-2617-4e55-b984-88557880e30b"

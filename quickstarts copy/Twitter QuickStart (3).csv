@@ -1,0 +1,56 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Twitter QuickStart (3)","Executive Pulse: 6 metrics you should track everyday","","Tweet Activity","TWEET ACTIVITY
+Shows on which day tweets (with social engagement) were sent out by the company handle. Drill down to see tweet details and engagement. ","996491572","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Reach: Who is your brand reaching?","","Sent Tweets and Replies","SENT TWEETS AND REPLIES
+Shows the total number of sent tweets and replies for the company handle. Send out tweets during the times of day that are likely to lead to the most engagement.","1470944917","User Timeline","c567b312-ded0-4499-82c4-307fcf832282"
+"Twitter QuickStart (3)","Reach: Who is your brand reaching?","","Total Followers","TOTAL FOLLOWERS
+Shows the total number of followers you have acquired. Allocate more marketing spend to grow your Twitter audience if needs be. 
+
+Note: The Twitter API is unable to pull a history of followers for your handle. This card will build a history of followers starting from the day you deployed the QuickStart app.","1187009690","User Profile Metrics","fed4adc8-f344-461d-831e-3f21726dacd2"
+"Twitter QuickStart (3)","Reach: Who is your brand reaching?","","Retweet Reach","RETWEET REACH
+Shows the total number of retweets the company handle has received during the period. It also shows the potential audience associated with those retweets (sum of the followers of those handles that retweet the company handle). 
+","1892600679","Retweets","3956d56f-7a49-4040-97e1-89a964e9d6a3"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Top Tweeters","TOP TWEETERS
+Tracks the twitter handles that are mentioning the company handle the most. 
+","1747661425","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Top 20 Organic Tweets","TOP 20 ORGANIC TWEETS
+Ranks each organic tweet by the number of retweets during the period. The number of favorites is also included for additional context. Replicate elements of tweets that are most popular to increase the chances of future tweets going viral. ","1361882290","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Top 20 Paid Tweets","TOP 20 PAID TWEETS
+Ranks each promoted tweet by the number of retweets during the period. The number of favorites is also included for additional context. Determine what elements of promoted tweets performed better than others to increase the ROI of future tweets. 
+","893022900","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Engagement: How engaging is your content?","","Favorites Trend","FAVORITES TREND
+Measures the number of favorites that paid and organic tweets have received during the period. Post top performing tweets to other social sites and replicate elements of top favorited content to future creation strategies. ","601859973","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Most Used Hashtags","MOST USED HASHTAGS
+Displays the most common hashtags that have been used by individuals who mention the company handle over the specified period. Use this information to determine what keywords people associate with your brand.","1298524703","Mentions Timeline Entities","411c93d1-dffa-4bf2-842a-5ba2c38051e6"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Most Recent Top Engaging Tweets","MOST RECENT TOP ENGAGING TWEETS
+Shows which tweets have recently been retweeted the most. Drill down to see how many favorites a tweet has received. ","323277077","User Timeline","c567b312-ded0-4499-82c4-307fcf832282"
+"Twitter QuickStart (3)","Executive Pulse: 6 metrics you should track everyday","","Top 15 Trending Tweets",,"688200554","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Reach: Who is your brand reaching?","","Most Influential Retweeters","MOST INFLUENTIAL RETWEETERS
+Shows the twitter handles with the most followers (greatest reach) that have retweeted company content during the period. 
+","453076733","Retweets","3956d56f-7a49-4040-97e1-89a964e9d6a3"
+"Twitter QuickStart (3)","Engagement: How engaging is your content?","","Mentions by Source","MENTIONS BY SOURCE
+Shows what device or website company mentions are originating from.","1744811772","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Executive Pulse: 6 metrics you should track everyday","","Trending Hashtags",,"775325496","Mentions Timeline Entities","411c93d1-dffa-4bf2-842a-5ba2c38051e6"
+"Twitter QuickStart (3)","Engagement: How engaging is your content?","","Mentions by Hour","MENTIONS BY HOUR
+Shows what times of day you received the most mentions during the period. Use this card to determine when followers are most active on Twitter. Note: The time zone shown is UTC and is customizable.","1829333439","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Reach: Who is your brand reaching?","","Influential Mentioners","INFLUENTIAL MENTIONERS
+Ranks individuals who have mentioned your handle by the number of their followers. Develop and nourish relationships with top social influencers to reach their audiences.","812581305","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Executive Pulse: 6 metrics you should track everyday","","Retweets Last 30 Days","RETWEETS LAST 30 DAYS
+Shows the total number of retweets obtained during the period. Each period corresponds to the date when a tweet was created and when a retweet's original tweet was sent. Identify the root causes for retweet spikes and use findings to improve future tweet performance.","633947148","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Best Times to Tweet","BEST TIMES TO TWEET
+Identifies which hours of the day have yielded the most retweets during the period. Post during times of day that are most likely to reach the most individuals to increase engagement and brand awareness. Note: The time zone shown is UTC and is customizable.","1196549724","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Reach: Who is your brand reaching?","","Mention Reach","MENTION REACH
+Compares the number of mentions received along with the potential audience associated with those mentions (i.e. the sum of the followers who mentioned the company handle). Allocate more spending to twitter ads and advertise your handle on other social sites to increase brand exposure.","433994015","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Executive Pulse: 6 metrics you should track everyday","","Mentions Trend","MENTIONS TREND
+Displays the number of times your handle was mentioned during the period. Identify the root causes for spikes in mentions. Analyze which mentions led with your handle as the first word versus which mentions used your handle somewhere in else in the tweet to assess which mentions had the greatest reach. ","1760485050","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Engagement: How engaging is your content?","","Retweets Trend","RETWEETS TREND
+Identifies the number of organic and paid retweets  over the specified period. Each period corresponds to the date when a tweet was created and when a retweet's original tweet was sent. Identify the root causes for retweet spikes and use findings to improve future tweet performance.","347677116","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Content Optimization: What content is most popular?","","Most Influential Mentions","MOST INFLUENTIAL MENTIONS
+Shows the specific tweets that mentioned the company handle with the most social impact. This is assessed based upon the number of favorites and retweets the tweet acquired, as well as the number of followers of the tweeter.
+","470894219","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Executive Pulse: 6 metrics you should track everyday","","Recent Social Influencers","RECENT SOCIAL INFLUENCERS
+Ranks individuals who have mentioned your handle by the number of their followers. Develop and nourish relationships with top social influencers to reach their audiences.","1136375255","Mentions Timeline","dbcf0563-8503-4798-8802-cd37536db2a6"
+"Twitter QuickStart (3)","Engagement: How engaging is your content?","","Paid Tweet Performance","PAID TWEET PERFORMANCE
+Shows the number of retweets and favorites per promoted tweet. Also shows the number of sent tweets with engagement. All of these activities are broken down by the day of week the tweets were sent. Send out tweets on days that are most likely to yield the most engagement.","686940260","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"
+"Twitter QuickStart (3)","Engagement: How engaging is your content?","","Tweet Performance","TWEET PERFORMANCE
+Shows the number of retweets and favorites per organic tweet. Also shows the number of sent tweets with engagement. All of these activities are broken down by the day of week the tweets were sent. Send out tweets on days that are most likely to yield the most engagement.","1734795026","Retweets Of Me","fcbc3510-661d-48f8-9b3d-9e8c3af932b0"

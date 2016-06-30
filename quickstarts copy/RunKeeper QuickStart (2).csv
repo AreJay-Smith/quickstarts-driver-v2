@@ -1,0 +1,25 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"RunKeeper QuickStart (2)","RunKeeper Pulse: Recent activity at a glance","","Miles Week over Week","MILES WEEK OVER WEEK
+Shows the total number of miles recorded for this week compared to the previous week. Monitor performance against your personal goals to track progress.","1494518611","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","RunKeeper Pulse: Recent activity at a glance","","Duration Week over Week","DURATION WEEK OVER WEEK
+Shows the minutes spent exercising this week compared to the previous week. Monitor performance against your personal goals to track progress.","1590642414","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Miles","MILES
+Shows the number of miles you have recorded in your activities during the period.","221791742","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Most Active Days","MOST ACTIVE DAYS
+Shows on what days you have recorded the most miles, longest duration and burned the most calories.","496066445","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","RunKeeper Pulse: Recent activity at a glance","","Calories Last 14 Days","CALORIES LAST 14 DAYS
+Shows the total number of calories burned during the period. ","409894768","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","RunKeeper Pulse: Recent activity at a glance","","Miles Last 14 Days","MILES LAST 14 DAYS
+Measures the percent change in the number of miles recorded in the last 7 days against the previous 7 days. ","1488084747","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Duration","DURATION
+Shows the duration of your exercise activities, in minutes, over the period.","367096637","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Speed","SPEED
+Shows the speed (mph) at which you are performing your different activities. ","352059752","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Avg Calories per Activity","AVG CALORIES PER ACTIVITY
+Shows the average number of calories burned by activity during the period. ","1870950","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Calories","CALORIES
+Shows the total number of calories burned during the period.","390875676","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Day of Week Performance","DAY OF WEEK PERFORMANCE
+Shows on what days of the week you record the most miles during activities.","442076240","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"
+"RunKeeper QuickStart (2)","Activity Breakdown: What days am I most active and where can I improve?","","Miles by Activity","MILES BY ACTIVITY
+Shows the total number of miles performed for each activity during the period. ","132257456","RunKeeper-Fitness Activities","8c477c19-455c-4b83-abec-6c7b8c3de2c2"

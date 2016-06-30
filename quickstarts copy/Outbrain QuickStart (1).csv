@@ -1,0 +1,45 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Outbrain QuickStart (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","CPA","COST PER ACQUISITION
+Compares the cost per acquisition/conversion (CPA) against the number of conversions over the specified period. Campaigns that cost more per conversion than they generate in revenues may need to be changed or discontinued.
+
+Cost per Acquisition/Conversion (CPA) = Ad Spend / Conversions","704783378","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","Budget Spent","BUDGET SPENT
+Compares the current amount of spend this period against the total budget for the period. Change your bid levels, ad copy and keyword choices for low-margin campaigns that are regularly maxing out your budget.","712474053","Budget","f100d4af-80e8-4a3f-b9cb-2384c2b6e07c"
+"Outbrain QuickStart (1)","Executive Pulse: 5 metrics you should check every day.","","Bottom Campaigns","BOTTOM CAMPAIGNS
+Ranks your poorest performing campaigns by the number of conversions and displays the amount of ad spend you have put into each campaign. Justify expensive campaigns that aren't resulting in conversions.","1876641173","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Conversion: Are your ads driving sales or just generating costs?","","Campaign Conversion Rates","CAMPAIGN CONVERSION RATES
+Ranks each campaign by the number of conversions it acquired and shows its conversion rate as a relative proportion of converted and unconverted clicks. Replicate the successful elements of your highest performing campaigns to increase conversions.
+
+Conversion Rate = Conversions / Clicks","1647766867","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Executive Pulse: 5 metrics you should check every day.","","Ad Spend Last 7 Days","AD SPEND LAST 7 DAYS
+Compares the cost per acquisition/conversion (CPA) and cost per click (CPC) against the total spend over the specified period. Consider decreasing your budget allocation in order to limit expenses or increasing your budget to fuel future growth.
+
+Cost per Conversion (CPA) = Ad Spend / Conversions
+
+Cost per Click (CPC) = Ad Spend / Clicks","678794894","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Ad Engagement: How are your customers reacting to your ad campaigns?","","Top Campaigns by CPC","TOP CAMPAIGNS BY COST PER CLICK
+Ranks your campaigns by cost per click. Identify which campaigns are driving high amounts of clicks to your website.","2135145661","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Conversion: Are your ads driving sales or just generating costs?","","Campaign Conversions","CAMPAIGN CONVERSIONS
+Highlights the campaigns that have acquired the most conversions over the specified period. Replicate the successful elements of your highest performing campaigns to increase conversions.","1337221267","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Ad Engagement: How are your customers reacting to your ad campaigns?","","CTR Trend","CLICK-THROUGH RATE TREND
+Compares the click-through rate (CTR) with the amount of clicks over the specified period. Increase your click-through rate by A/B testing content and modifying ad placements to better reach your target customers.
+
+Click-Through Rate (CTR) = Clicks / Impressions","688454348","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","CPC","COST PER CLICK
+Compares the average cost per click (CPC) against the number of clicks over the specified period. Improving your quality score can lead to a lower CPC by decreasing the bid amount required to earn a click.
+
+Cost per Click (CPC) = Spend / Clicks","833569226","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Executive Pulse: 5 metrics you should check every day.","","Top Spending Campaigns","TOP SPENDING CAMPAIGNS
+Ranks your top 10 campaigns by their ad spend and plots their clicks and conversions over the specified period. Rationalize spending by determining if campaigns are generating the desired amount of clicks and conversions.","1665738406","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Conversion: Are your ads driving sales or just generating costs?","","Conversion Rate","CONVERSION RATE
+Compares the conversion rate to the total number of conversions over the specified period. Maximize your conversion rate by testing ad content and targeting keywords, then replicating elements of successful campaigns.
+
+Conversion Rate = Conversions / Clicks","1740993151","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Costs: Are you leveraging your budget to capture the highest possible ROI?","","Projected Spend","PROJECTED SPEND
+Shows the amount of ad spend over time and forecasts spend for this period. Compare forecasts to your goals or budgets and adjust them accordingly.","1434381992","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Executive Pulse: 5 metrics you should check every day.","","Campaign Clicks","CAMPAIGN CLICKS
+Measures the number of clicks earned by each of your campaigns over the specified period. Dedicate resources to campaigns that are showing signs of growth.","1762567584","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Ad Engagement: How are your customers reacting to your ad campaigns?","","Top Campaigns by Clicks","TOP CAMPAIGNS BY CLICKS
+Ranks the top 20 campaigns by the number of clicks they acquired over the specified period. Identify which of your campaigns are driving the most clicks to your website.","852110696","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"
+"Outbrain QuickStart (1)","Executive Pulse: 5 metrics you should check every day.","","Top Campaigns","TOP CAMPAIGNS
+Ranks recently run campaigns by the number of clicks they earned over the specified period. Identify which of your campaigns are driving the most clicks to your website and allocate resources accordingly.","2018333951","Campaign by Day","82b3e862-cee8-45f8-8c4f-43a94894decb"

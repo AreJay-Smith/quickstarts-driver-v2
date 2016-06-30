@@ -1,0 +1,58 @@
+"connector","collection","collection_description","card","card_description","card_id","data_name","dataset_id"
+"Instagram QuickStart (1)","Content Optimization: Which posts do your followers engage with most?","","Top Likers",,"1872640090","Users Recent Media - Likes","95614fe1-1d3e-42a7-b09d-ff1c0077efff"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Total Followers","TOTAL FOLLOWERS
+Shows the trend of your total followers during the period. Advertise your Instagram account on your website and other social platforms to increase your following.
+
+Note: The Instagram API is unable to pull a history of followers for your account. This card will build a history of followers starting from the day you deployed the QuickStart app.","2014230170","Users Information","6fb72931-01ce-4521-9e8b-7a9078387552"
+"Instagram QuickStart (1)","Reach: How many individuals are you reaching?","","Comments per Post YoY","COMMENTS PER POST YOY
+Measures the number of comments thus far this year and compares them to the previous year. Consider inviting followers to take simple actions on your posts to increase engagement. 
+
+Note: Dates correspond with time of post, not the time when the comment occurred.
+
+
+","561084666","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Reach: How many individuals are you reaching?","","Likes and Comments","LIKES AND COMMENTS
+Shows the trend in total generated engagement over time. In order to increase the number of likes and comments, consider new approaches such as selecting more attractive images, writing more engaging captions or using more appropriate hashtags. 
+
+NOTE: Dates correspond with time of post, not the time of the like or comment.","1561820056","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Content Optimization: Which posts do your followers engage with most?","","Top Commented Posts","TOP COMMENTED POSTS
+Displays the top ten most-commented posts during the specified period and their caption text. Invite users to take action on posts and hold promotional campaigns to increase engagement. ","1156563881","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Engagement: How well are posts engaging your followers?","","Engagements Trend","ENGAGEMENTS TREND
+Highlights trends in generated engagement, including comments per post and likes per post. Identify spikes in engagement and analyze the root causes.
+
+Note: Dates correspond with time of post, not time of like or comment.","1397869762","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Engagement: How well are posts engaging your followers?","","Best Days to Post","BEST DAYS TO POST
+Shows which days have yielded the most likes and comments per post during the period. Post on days that are most likely to yield the most reach and engagement. ","2116319357","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Content Optimization: Which posts do your followers engage with most?","","Posted Media",,"1939296744","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Posts Last 7 Days",,"1878404714","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Reach: How many individuals are you reaching?","","Likes per Post YoY","LIKES PER POST YOY
+Measures the number of likes thus far this year and compares them to the previous year. Consider inviting followers to take simple actions on your posts to increase engagement.
+
+Note: Dates correspond with time of post, not the time when the like occurred.","205731307","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Engagement: How well are posts engaging your followers?","","Post Type Performance","POST TYPE PERFORMANCE
+Shows the average number of likes and comments per post broken down by post type. Ensure you are diversifying your post types to increase engagement.","1406388909","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Weekly Volume of Posts","WEEKLY VOLUME OF POSTS
+Shows how often you are posting over time.  Set goals for post activity and create meaningful content to reach your audience.","2045591412","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Engagement: How well are posts engaging your followers?","","Engagement by Filter","ENGAGEMENT BY FILTER
+Breaks down Instagram engagement measures (likes and comments) by the filter used on the media in the post. Consider using the most engaging filters for the bulk of future company Instagram activity.
+","2045123882","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Most Liked Posts",,"247594499","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Comments and Forecast","COMMENTS AND FORECAST
+Shows the total number of comments acquired by posts during the specified period. Comments are forecasted through linear regression. Invite users to comment for customer feedback reasons and to engage in promotional efforts.
+
+Note: Dates correspond with time of post, not the time when the comment occurred.","1382730419","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Likes and Forecast","LIKES AND FORECAST
+Measures the total number of likes acquired by posts during the specified period. Likes are forecasted through linear regression. Use relevant hashtags on all posts to increase the reach and visibility of posts.
+
+Note: Dates correspond with time of post, not the time when the like occurred.","1905949252","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Engagement: How well are posts engaging your followers?","","Likes per Post","LIKES PER POST
+Depicts the ratio of likes to posts and the quantity of likes and posts over time. Use this to discover best practices for posting engaging content.","1135585398","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Content Optimization: Which posts do your followers engage with most?","","Top Posts by Likes","TOP POSTS BY LIKES
+Displays the company's five most-liked posts to date and their caption text. After reviewing this card, consider aligning upcoming company posts with elements that these top five share in common.
+","1787798375","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Executive Pulse: 7 metrics you should check every day.","","Post Activity","POST ACTIVITY 
+Shows on what days you have sent out posts this month. Drill down to see post performance.","2140143083","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
+"Instagram QuickStart (1)","Engagement: How well are posts engaging your followers?","","Best Times to Post","BEST TIMES TO POST
+Highlights the distribution of social engagements for all posts broken down by hour of the day. Post during the optimal times of day to yield the most engagement and reach.
+
+Note: Period currently refers to UTC Timezone, but can be modified.","1473204990","Users Recent Media - Posts","7e0eae79-df48-4c13-9f88-02bd6c660df0"
